@@ -1,6 +1,5 @@
 import pandas as pd
 import re
-import time
 import unicodedata # Biblioteca para lidar com normalização de texto (acentos)
 
 # --- 1. CONFIGURAÇÃO E CONSTANTES ---
