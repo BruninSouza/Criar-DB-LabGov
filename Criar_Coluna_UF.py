@@ -3,7 +3,7 @@ import re
 import unicodedata # Biblioteca para lidar com normalização de texto (acentos)
 
 # --- 1. CONFIGURAÇÃO E CONSTANTES ---
-ARQUIVO_ENTRADA = "DB_com_grupo.xlsx"
+ARQUIVO_ENTRADA = "arquivos-xlsx/DB.xlsx"
 ARQUIVO_SAIDA = "DB.xlsx"
 
 # Dicionário que mapeia o NOME COMPLETO (normalizado) para a SIGLA
@@ -70,30 +70,25 @@ def processar_dados_localidade(arquivo_entrada, arquivo_saida):
     """
     try:
         df = pd.read_excel(arquivo_entrada)
-        print("--- DataFrame Original ---")
-        print(df)
     except FileNotFoundError:
         print(f"Erro: Arquivo '{arquivo_entrada}' não encontrado.")
         return
 
     # Aplica a nova função unificada para criar a coluna de siglas
     df['Sigla_Extraida'] = df['Localidade(s)'].apply(extrair_localidade_unificado)
-    
-    print("\n--- DataFrame com Localidades Extraídas (Siglas ou Nomes) ---")
-    print(df[['Localidade(s)', 'Sigla_Extraida']])
 
     # Converte as siglas extraídas para códigos numéricos
     df['UF'] = df['Sigla_Extraida'].map(MAPA_SIGLA_PARA_NUMERICO)
 
-    print("\n--- DataFrame Final com Códigos Numéricos ---")
-    print(df[['Localidade(s)', 'Sigla_Extraida', 'UF']])
+    # Preenche os valores vazios (NaN) na coluna 'UF' com 99 (indefinido)
+    df['UF'] = df['UF'].fillna(99).astype(int) # .astype(int) para garantir que sejam inteiros
 
     # Salva o resultado final (removendo a coluna de sigla intermediária)
     df_final = df.drop(columns=['Sigla_Extraida','Localidade(s)'])
     df_final.to_excel(arquivo_saida, index=False)
-    
-    print(f"\nArquivo '{arquivo_saida}' salvo com sucesso!")
 
+    print("\n===Banco de dados Criado com sucesso!!===")
+    
 # --- 4. PONTO DE ENTRADA DO SCRIPT ---
 if __name__ == "__main__":
     processar_dados_localidade(ARQUIVO_ENTRADA, ARQUIVO_SAIDA)
