@@ -1,0 +1,2786 @@
+02.pdf:13:situação encontrada
+02.pdf:14:fato
+02.pdf:18:fato
+02.pdf:23:fato
+02.pdf:24:fato
+02.pdf:26:fato
+02.pdf:32:fato
+02.pdf:32:fato
+02.pdf:35:FATO
+02.pdf:40:fato
+02.pdf:40:fato
+02.pdf:41:fato
+02.pdf:47:fato
+03.pdf:9:fato
+03.pdf:18:fato
+04.pdf:6:fato
+04.pdf:6:fato
+04.pdf:22:fato
+04.pdf:28:fato
+04.pdf:28:fato
+04.pdf:28:fato
+04.pdf:28:fato
+04.pdf:30:fato
+04.pdf:40:fato
+04.pdf:41:fato
+04.pdf:45:fato
+04.pdf:46:fato
+04.pdf:46:fato
+05.pdf:7:fato
+05.pdf:29:fato
+06.pdf:14:fato
+06.pdf:16:fato
+06.pdf:17:fato
+06.pdf:20:fato
+06.pdf:25:fato
+06.pdf:28:fato
+06.pdf:28:fato
+06.pdf:32:fato
+06.pdf:32:fato
+06.pdf:35:fato
+06.pdf:36:fato
+07.pdf:6:fato
+07.pdf:6:fato
+07.pdf:13:fato
+07.pdf:16:fato
+07.pdf:24:fato
+07.pdf:25:Situações encontradas
+07.pdf:28:fato
+07.pdf:29:fato
+07.pdf:29:fato
+07.pdf:31:fato
+07.pdf:31:fato
+07.pdf:31:fato
+07.pdf:31:fato
+07.pdf:32:fato
+07.pdf:36:Fato
+07.pdf:38:fato
+07.pdf:39:fato
+08.pdf:12:fato
+08.pdf:12:fato
+08.pdf:22:fato
+08.pdf:26:fato
+08.pdf:28:fato
+08.pdf:29:fato
+08.pdf:31:fato
+08.pdf:31:fato
+08.pdf:32:fato
+08.pdf:32:fato
+08.pdf:33:fato
+09.pdf:4:fato
+09.pdf:23:fato
+09.pdf:27:fato
+09.pdf:29:fato
+09.pdf:37:situações encontradas
+09.pdf:41:fato
+09.pdf:49:fato
+09.pdf:50:fato
+09.pdf:52:fato
+09.pdf:58:fato
+09.pdf:58:fato
+09.pdf:64:fato
+09.pdf:64:fato
+09.pdf:65:fato
+09.pdf:65:fato
+100.pdf:10:fato
+100.pdf:11:fato
+100.pdf:18:fato
+100.pdf:21:fato
+100.pdf:22:fato
+100.pdf:22:fato
+100.pdf:25:fato
+101.pdf:12:fato
+101.pdf:14:Fato
+102.pdf:4:fato
+102.pdf:4:fato
+102.pdf:14:fato
+102.pdf:14:fato
+102.pdf:17:fato
+102.pdf:21:fato
+102.pdf:22:fato
+102.pdf:26:fato
+102.pdf:26:fato
+102.pdf:26:fato
+102.pdf:27:fato
+102.pdf:28:fato
+102.pdf:35:fato
+103.pdf:10:fato
+103.pdf:10:fato
+104.pdf:11:fato
+104.pdf:24:fato
+104.pdf:26:fato
+104.pdf:26:fato
+104.pdf:27:fato
+104.pdf:39:fato
+104.pdf:39:fato
+105.pdf:7:fato
+105.pdf:10:fato
+105.pdf:17:fato
+105.pdf:22:Fato
+106.pdf:12:situação encontrada
+106.pdf:18:fato
+106.pdf:23:fato
+107.pdf:4:fato
+107.pdf:13:fato
+107.pdf:15:fato
+107.pdf:17:fato
+107.pdf:26:fato
+108.pdf:13:fato
+108.pdf:30:fato
+108.pdf:30:fato
+108.pdf:30:fato
+108.pdf:39:fato
+108.pdf:39:fato
+108.pdf:39:fato
+108.pdf:40:fato
+108.pdf:40:fato
+108.pdf:42:fato
+108.pdf:42:fato
+108.pdf:43:fato
+108.pdf:44:fato
+108.pdf:46:fato
+108.pdf:47:fato
+108.pdf:52:fato
+109.pdf:9:fato
+109.pdf:14:fato
+109.pdf:15:fato
+109.pdf:18:fato
+109.pdf:19:fato
+109.pdf:19:fato
+109.pdf:19:fato
+109.pdf:19:fato
+109.pdf:23:fato
+109.pdf:23:fato
+109.pdf:23:fato
+109.pdf:23:fato
+109.pdf:30:fato
+109.pdf:34:Fato
+109.pdf:34:Fato
+109.pdf:38:fato
+109.pdf:38:fato
+109.pdf:47:fato
+109.pdf:49:fato
+109.pdf:51:fato
+109.pdf:51:Fato
+109.pdf:51:Fato
+109.pdf:51:Fato
+109.pdf:51:Fato
+109.pdf:52:fato
+109.pdf:52:fato
+109.pdf:53:fato
+109.pdf:53:FATO
+109.pdf:53:FATO
+109.pdf:53:fato
+109.pdf:54:fato
+109.pdf:54:fato
+109.pdf:54:fato
+109.pdf:54:fato
+109.pdf:54:fato
+109.pdf:54:fato
+109.pdf:64:fato
+109.pdf:71:fato
+10.pdf:7:fato
+10.pdf:11:fato
+10.pdf:11:fato
+10.pdf:20:fato
+10.pdf:21:fato
+10.pdf:21:fato
+10.pdf:22:fato
+10.pdf:31:fato
+10.pdf:31:fato
+10.pdf:31:fato
+10.pdf:31:fato
+10.pdf:31:fato
+10.pdf:31:fato
+10.pdf:33:fato
+10.pdf:34:fato
+10.pdf:34:fato
+10.pdf:34:fato
+10.pdf:35:fato
+10.pdf:37:fato
+10.pdf:38:fato
+10.pdf:41:fato
+10.pdf:41:fato
+10.pdf:48:situação encontrada
+10.pdf:51:fato
+10.pdf:54:fato
+10.pdf:55:Fato
+10.pdf:56:fato
+10.pdf:58:Fato
+10.pdf:60:fato
+10.pdf:60:fato
+10.pdf:61:fato
+10.pdf:63:fato
+10.pdf:67:fato
+10.pdf:67:fato
+10.pdf:68:situações encontradas
+10.pdf:68:fato
+10.pdf:69:fato
+10.pdf:70:situação encontrada
+10.pdf:71:fato
+10.pdf:73:fato
+10.pdf:77:fato
+110.pdf:11:fato
+110.pdf:17:fato
+110.pdf:20:fato
+111.pdf:16:fato
+111.pdf:17:fato
+111.pdf:23:fato
+112.pdf:3:fato
+112.pdf:6:fato
+112.pdf:8:fato
+112.pdf:8:fato
+112.pdf:11:fato
+112.pdf:11:fato
+112.pdf:11:fato
+112.pdf:15:fato
+113.pdf:21:fato
+113.pdf:24:Fato
+113.pdf:27:fato
+113.pdf:43:fato
+113.pdf:54:fato
+114.pdf:3:fato
+114.pdf:7:fato
+114.pdf:7:fato
+114.pdf:9:fato
+114.pdf:14:fato
+114.pdf:21:fato
+114.pdf:21:fato
+114.pdf:21:fato
+115.pdf:11:fato
+115.pdf:11:fato
+115.pdf:11:fato
+115.pdf:20:fato
+115.pdf:22:fato
+115.pdf:25:fato
+115.pdf:26:fato
+115.pdf:26:fato
+115.pdf:26:fato
+115.pdf:27:fato
+115.pdf:29:fato
+115.pdf:31:fato
+115.pdf:31:fato
+115.pdf:41:fato
+115.pdf:43:fato
+115.pdf:44:fato
+115.pdf:44:fato
+115.pdf:44:fato
+115.pdf:44:fato
+115.pdf:45:fato
+115.pdf:78:fato
+115.pdf:80:fato
+115.pdf:81:fato
+115.pdf:81:fato
+115.pdf:84:fato
+115.pdf:88:fato
+115.pdf:91:fato
+116.pdf:19:fato
+116.pdf:21:fato
+117.pdf:17:situação encontrada
+118.pdf:11:fato
+118.pdf:11:fato
+119.pdf:21:fato
+119.pdf:30:fato
+119.pdf:30:fato
+119.pdf:33:fato
+119.pdf:33:fato
+119.pdf:33:fato
+119.pdf:41:fato
+119.pdf:43:Fato
+11.pdf:36:fato
+11.pdf:38:fato
+11.pdf:38:fato
+11.pdf:41:fato
+11.pdf:45:fato
+11.pdf:45:fato
+11.pdf:49:fato
+11.pdf:49:fato
+11.pdf:50:fato
+11.pdf:52:fato
+11.pdf:54:fato
+11.pdf:54:fato
+11.pdf:54:fato
+11.pdf:58:fato
+11.pdf:59:fato
+11.pdf:61:fato
+11.pdf:68:fato
+11.pdf:69:fato
+11.pdf:69:fato
+11.pdf:75:fato
+11.pdf:77:fato
+11.pdf:78:fato
+123.pdf:8:fato
+125.pdf:6:fato
+125.pdf:6:fato
+125.pdf:8:fato
+125.pdf:10:fato
+125.pdf:11:fato
+125.pdf:17:fato
+125.pdf:51:Fato
+125.pdf:52:Fato
+126.pdf:7:fato
+126.pdf:8:fato
+126.pdf:8:fato
+126.pdf:9:fato
+126.pdf:10:fato
+126.pdf:11:fato
+126.pdf:11:fato
+126.pdf:11:fato
+126.pdf:11:fato
+127.pdf:8:fato
+127.pdf:9:fato
+127.pdf:9:fato
+127.pdf:17:fato
+127.pdf:23:fato
+127.pdf:27:fato
+127.pdf:36:fato
+127.pdf:37:fato
+127.pdf:37:fato
+127.pdf:37:fato
+127.pdf:38:fato
+127.pdf:38:fato
+128.pdf:12:fato
+128.pdf:12:fato
+128.pdf:21:fato
+128.pdf:25:fato
+128.pdf:30:fato
+128.pdf:33:fato
+128.pdf:39:situação encontrada
+128.pdf:46:fato
+129.pdf:3:fato
+129.pdf:46:fato
+129.pdf:46:fato
+129.pdf:53:fato
+129.pdf:55:fato
+129.pdf:55:fato
+129.pdf:62:fato
+129.pdf:62:fato
+129.pdf:64:fato
+129.pdf:71:fato
+129.pdf:71:fato
+129.pdf:74:fato
+129.pdf:75:fato
+129.pdf:76:fato
+129.pdf:82:fato
+12.pdf:10:condição encontrada
+12.pdf:22:fato
+12.pdf:23:fato
+12.pdf:32:Fato
+12.pdf:32:fato
+12.pdf:32:fato
+12.pdf:34:fato
+12.pdf:34:fato
+12.pdf:39:fato
+12.pdf:39:Fato
+12.pdf:42:fato
+12.pdf:47:fato
+12.pdf:48:fato
+12.pdf:48:fato
+12.pdf:54:Fato
+12.pdf:56:fato
+12.pdf:56:fato
+12.pdf:57:fato
+12.pdf:57:fato
+12.pdf:57:Fato
+130.pdf:3:fato
+130.pdf:16:fato
+130.pdf:18:fato
+130.pdf:20:fato
+130.pdf:24:fato
+130.pdf:26:fato
+130.pdf:26:fato
+130.pdf:27:fato
+130.pdf:28:fato
+130.pdf:29:fato
+130.pdf:29:fato
+131.pdf:3:fato
+131.pdf:9:fato
+131.pdf:10:fato
+131.pdf:18:fato
+131.pdf:18:fato
+131.pdf:20:fato
+131.pdf:21:fato
+131.pdf:28:fato
+131.pdf:28:fato
+131.pdf:28:fato
+132.pdf:7:fato
+132.pdf:22:fato
+132.pdf:22:fato
+132.pdf:22:fato
+132.pdf:26:fato
+132.pdf:26:fato
+132.pdf:26:Fato
+132.pdf:26:Fato
+132.pdf:27:Fato
+132.pdf:27:Fato
+132.pdf:27:fato
+132.pdf:28:fato
+132.pdf:28:fato
+132.pdf:28:fato
+132.pdf:31:fato
+132.pdf:33:fato
+132.pdf:48:fato
+132.pdf:48:fato
+132.pdf:53:fato
+132.pdf:62:fato
+132.pdf:63:fato
+132.pdf:63:Fato
+132.pdf:64:fato
+132.pdf:65:fato
+132.pdf:65:fato
+132.pdf:71:fato
+132.pdf:73:fato
+133.pdf:11:fato
+133.pdf:20:fato
+133.pdf:35:fato
+133.pdf:38:fato
+133.pdf:59:fato
+133.pdf:60:fato
+133.pdf:62:fato
+133.pdf:65:fato
+133.pdf:66:fato
+133.pdf:66:fato
+133.pdf:80:Fato
+133.pdf:81:fato
+133.pdf:85:fato
+133.pdf:88:fato
+133.pdf:89:fato
+133.pdf:91:fato
+133.pdf:104:fato
+133.pdf:105:fato
+133.pdf:105:fato
+133.pdf:105:fato
+133.pdf:105:fato
+133.pdf:106:fato
+133.pdf:128:fato
+133.pdf:130:fato
+134.pdf:7:fato
+134.pdf:9:fato
+134.pdf:13:fato
+134.pdf:17:fato
+134.pdf:17:fato
+134.pdf:22:fato
+134.pdf:25:situações encontradas
+135.pdf:3:fato
+135.pdf:8:fato
+135.pdf:13:fato
+135.pdf:14:fato
+135.pdf:15:fato
+135.pdf:18:fato
+135.pdf:21:fato
+135.pdf:24:fato
+135.pdf:25:fato
+135.pdf:29:fato
+135.pdf:29:Fato
+135.pdf:31:fato
+135.pdf:32:fato
+135.pdf:33:fato
+135.pdf:35:fato
+135.pdf:35:fato
+135.pdf:36:fato
+135.pdf:39:Fato
+135.pdf:39:fato
+135.pdf:40:fato
+135.pdf:46:Fato
+135.pdf:48:fato
+136.pdf:3:fato
+136.pdf:7:fato
+136.pdf:15:fato
+136.pdf:18:fato
+136.pdf:18:fato
+136.pdf:18:fato
+136.pdf:18:fato
+137.pdf:3:fato
+137.pdf:13:fato
+137.pdf:22:fato
+137.pdf:32:fato
+137.pdf:37:fato
+137.pdf:40:fato
+137.pdf:44:fato
+137.pdf:45:fato
+137.pdf:45:fato
+137.pdf:49:fato
+137.pdf:50:fato
+137.pdf:52:fato
+137.pdf:61:fato
+137.pdf:62:fato
+137.pdf:62:fato
+137.pdf:62:fato
+137.pdf:62:fato
+137.pdf:64:fato
+137.pdf:64:fato
+137.pdf:66:fato
+137.pdf:66:fato
+137.pdf:68:fato
+137.pdf:68:fato
+137.pdf:68:fato
+137.pdf:69:fato
+137.pdf:69:fato
+137.pdf:69:fato
+137.pdf:69:fato
+137.pdf:72:fato
+137.pdf:72:fato
+137.pdf:76:fato
+137.pdf:77:fato
+137.pdf:78:fato
+137.pdf:78:fato
+137.pdf:82:fato
+137.pdf:82:fato
+137.pdf:82:fato
+137.pdf:84:fato
+137.pdf:86:fato
+137.pdf:88:fato
+137.pdf:88:fato
+138.pdf:4:fato
+138.pdf:18:fato
+138.pdf:23:fato
+138.pdf:23:fato
+138.pdf:24:fato
+138.pdf:25:fato
+138.pdf:25:fato
+139.pdf:15:fato
+139.pdf:16:fato
+139.pdf:17:fato
+139.pdf:17:fato
+139.pdf:19:fato
+139.pdf:20:fato
+139.pdf:23:fato
+139.pdf:24:fato
+139.pdf:25:fato
+13.pdf:5:Fato
+13.pdf:11:fato
+13.pdf:12:fato
+13.pdf:15:Fato
+13.pdf:22:fato
+13.pdf:24:Fato
+140.pdf:9:fato
+140.pdf:20:fato
+140.pdf:31:fato
+140.pdf:32:fato
+140.pdf:32:fato
+140.pdf:38:fato
+140.pdf:40:situações encontradas
+141.pdf:33:fato
+141.pdf:40:fato
+141.pdf:41:fato
+141.pdf:55:fato
+141.pdf:66:fato
+141.pdf:68:fato
+141.pdf:86:fato
+141.pdf:87:fato
+141.pdf:87:fato
+141.pdf:87:fato
+141.pdf:88:fato
+141.pdf:93:fato
+141.pdf:93:fato
+141.pdf:94:fato
+141.pdf:95:fato
+141.pdf:95:fato
+141.pdf:96:fato
+141.pdf:96:fato
+141.pdf:96:fato
+141.pdf:96:fato
+141.pdf:97:fato
+141.pdf:98:fato
+141.pdf:98:fato
+141.pdf:100:fato
+141.pdf:102:fato
+141.pdf:102:fato
+141.pdf:102:fato
+141.pdf:102:fato
+141.pdf:103:fato
+141.pdf:103:fato
+141.pdf:103:fato
+141.pdf:104:fato
+141.pdf:104:fato
+141.pdf:106:fato
+141.pdf:110:fato
+141.pdf:115:fato
+141.pdf:115:fato
+141.pdf:115:fato
+141.pdf:115:fato
+141.pdf:116:fato
+141.pdf:116:fato
+141.pdf:116:fato
+141.pdf:119:fato
+141.pdf:121:fato
+141.pdf:126:fato
+141.pdf:126:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:127:fato
+141.pdf:128:fato
+141.pdf:128:fato
+141.pdf:133:fato
+141.pdf:136:fato
+141.pdf:136:fato
+141.pdf:137:fato
+141.pdf:148:fato
+141.pdf:148:fato
+141.pdf:149:fato
+141.pdf:150:fato
+141.pdf:150:fato
+141.pdf:151:fato
+141.pdf:151:fato
+141.pdf:152:fato
+141.pdf:153:fato
+141.pdf:154:fato
+141.pdf:155:fato
+142.pdf:11:fato
+142.pdf:15:fato
+142.pdf:16:fato
+142.pdf:28:fato
+142.pdf:29:fato
+142.pdf:30:fato
+142.pdf:33:fato
+142.pdf:33:fato
+142.pdf:34:fato
+142.pdf:34:fato
+142.pdf:34:fato
+142.pdf:35:fato
+142.pdf:35:fato
+142.pdf:35:fato
+142.pdf:36:fato
+142.pdf:36:fato
+142.pdf:36:fato
+142.pdf:43:fato
+142.pdf:43:fato
+142.pdf:44:fato
+142.pdf:51:fato
+142.pdf:53:fato
+142.pdf:53:fato
+144.pdf:13:fato
+144.pdf:18:fato
+145.pdf:24:fato
+145.pdf:24:fato
+145.pdf:25:fato
+145.pdf:38:fato
+145.pdf:41:fato
+145.pdf:62:fato
+145.pdf:67:fato
+145.pdf:70:fato
+145.pdf:70:fato
+145.pdf:70:fato
+145.pdf:72:fato
+145.pdf:73:fato
+145.pdf:82:fato
+145.pdf:83:fato
+145.pdf:83:fato
+146.pdf:14:fato
+146.pdf:15:fato
+146.pdf:19:condição encontrada
+146.pdf:20:fato
+147.pdf:9:fato
+147.pdf:11:fato
+147.pdf:12:fato
+147.pdf:17:fato
+147.pdf:31:fato
+147.pdf:33:fato
+147.pdf:40:fato
+147.pdf:42:fato
+147.pdf:42:fato
+147.pdf:45:fato
+147.pdf:47:fato
+147.pdf:58:fato
+147.pdf:78:fato
+147.pdf:78:fato
+148.pdf:17:fato
+148.pdf:24:Fato
+148.pdf:29:situação encontrada
+148.pdf:30:fato
+148.pdf:37:fato
+148.pdf:41:fato
+148.pdf:44:fato
+148.pdf:46:fato
+148.pdf:47:fato
+148.pdf:57:fato
+148.pdf:65:fato
+148.pdf:68:fato
+148.pdf:69:fato
+148.pdf:70:fato
+148.pdf:70:fato
+148.pdf:73:fato
+148.pdf:77:situação encontrada
+148.pdf:78:situação encontrada
+148.pdf:85:fato
+148.pdf:86:fato
+148.pdf:89:fato
+148.pdf:99:fato
+148.pdf:99:fato
+148.pdf:106:fato
+148.pdf:114:Fato
+148.pdf:118:fato
+148.pdf:120:fato
+148.pdf:121:fato
+148.pdf:129:fato
+148.pdf:131:fato
+148.pdf:135:fato
+148.pdf:136:fato
+148.pdf:136:fato
+148.pdf:139:fato
+148.pdf:140:fato
+148.pdf:140:fato
+148.pdf:140:fato
+149.pdf:7:fato
+149.pdf:14:fato
+149.pdf:15:fato
+14.pdf:7:fato
+14.pdf:7:fato
+14.pdf:7:fato
+14.pdf:12:situações encontradas
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:14:fato
+14.pdf:15:fato
+14.pdf:15:fato
+14.pdf:15:fato
+14.pdf:15:fato
+14.pdf:15:fato
+14.pdf:15:fato
+14.pdf:16:fato
+14.pdf:16:fato
+14.pdf:17:situações encontradas
+14.pdf:17:fato
+14.pdf:19:fato
+14.pdf:21:fato
+14.pdf:21:fato
+14.pdf:21:fato
+14.pdf:22:fato
+14.pdf:22:fato
+14.pdf:27:fato
+14.pdf:31:fato
+14.pdf:31:fato
+14.pdf:32:fato
+14.pdf:32:fato
+14.pdf:34:fato
+14.pdf:38:fato
+14.pdf:45:fato
+14.pdf:48:fato
+14.pdf:51:fato
+14.pdf:51:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:52:fato
+14.pdf:53:fato
+14.pdf:53:fato
+14.pdf:53:fato
+14.pdf:53:fato
+14.pdf:53:fato
+14.pdf:55:fato
+14.pdf:63:fato
+14.pdf:63:fato
+14.pdf:64:fato
+14.pdf:66:fato
+14.pdf:69:fato
+14.pdf:70:fato
+14.pdf:70:fato
+14.pdf:78:fato
+14.pdf:79:fato
+14.pdf:81:fato
+14.pdf:82:fato
+150.pdf:18:fato
+150.pdf:35:fato
+150.pdf:41:fato
+150.pdf:43:fato
+150.pdf:49:fato
+150.pdf:49:fato
+150.pdf:57:Fato
+151.pdf:10:fato
+151.pdf:23:fato
+151.pdf:24:fato
+151.pdf:37:fato
+151.pdf:43:fato
+151.pdf:50:fato
+151.pdf:51:fato
+151.pdf:68:fato
+152.pdf:3:fato
+152.pdf:4:fato
+152.pdf:7:fato
+152.pdf:10:fato
+152.pdf:10:fato
+152.pdf:10:fato
+153.pdf:17:fato
+153.pdf:37:fato
+153.pdf:47:fato
+153.pdf:56:SITUAÇÃO ENCONTRADA
+153.pdf:58:fato
+153.pdf:58:fato
+153.pdf:63:SITUAÇÃO ENCONTRADA
+153.pdf:64:SITUAÇÃO ENCONTRADA
+153.pdf:66:SITUAÇÃO ENCONTRADA
+153.pdf:69:SITUAÇÃO ENCONTRADA
+153.pdf:71:SITUAÇÃO ENCONTRADA
+153.pdf:74:SITUAÇÃO ENCONTRADA
+153.pdf:77:SITUAÇÃO ENCONTRADA
+153.pdf:83:fato
+153.pdf:83:fato
+153.pdf:89:SITUAÇÃO ENCONTRADA
+153.pdf:92:SITUAÇÃO ENCONTRADA
+153.pdf:94:SITUAÇÃO ENCONTRADA
+153.pdf:97:SITUAÇÃO ENCONTRADA
+153.pdf:101:SITUAÇÃO ENCONTRADA
+153.pdf:101:fato
+153.pdf:104:SITUAÇÃO ENCONTRADA
+153.pdf:110:SITUAÇÃO ENCONTRADA
+153.pdf:110:fato
+153.pdf:110:fato
+153.pdf:111:SITUAÇÃO ENCONTRADA
+153.pdf:112:fato
+153.pdf:112:fato
+153.pdf:118:SITUAÇÃO ENCONTRADA
+153.pdf:118:fato
+153.pdf:121:SITUAÇÃO ENCONTRADA
+153.pdf:121:fato
+153.pdf:123:SITUAÇÃO ENCONTRADA
+153.pdf:125:fato
+153.pdf:125:fato
+153.pdf:130:SITUAÇÃO ENCONTRADA
+153.pdf:136:SITUAÇÃO ENCONTRADA
+153.pdf:139:SITUAÇÃO ENCONTRADA
+153.pdf:141:SITUAÇÃO ENCONTRADA
+153.pdf:143:SITUAÇÃO ENCONTRADA
+153.pdf:150:fato
+153.pdf:150:fato
+153.pdf:155:SITUAÇÃO ENCONTRADA
+153.pdf:157:SITUAÇÃO ENCONTRADA
+153.pdf:159:SITUAÇÃO ENCONTRADA
+153.pdf:162:SITUAÇÃO ENCONTRADA
+153.pdf:166:SITUAÇÃO ENCONTRADA
+153.pdf:167:SITUAÇÃO ENCONTRADA
+153.pdf:171:SITUAÇÃO ENCONTRADA
+153.pdf:176:SITUAÇÃO ENCONTRADA
+153.pdf:177:fato
+153.pdf:177:fato
+153.pdf:179:Situação encontrada
+153.pdf:179:Situação encontrada
+153.pdf:179:SITUAÇÃO ENCONTRADA
+153.pdf:182:situação encontrada
+153.pdf:186:SITUAÇÃO ENCONTRADA
+153.pdf:191:SITUAÇÃO ENCONTRADA
+153.pdf:194:SITUAÇÃO ENCONTRADA
+153.pdf:199:SITUAÇÃO ENCONTRADA
+153.pdf:203:fato
+153.pdf:203:fato
+153.pdf:206:SITUAÇÃO ENCONTRADA
+153.pdf:208:SITUAÇÃO ENCONTRADA
+153.pdf:210:SITUAÇÃO ENCONTRADA
+153.pdf:210:fato
+153.pdf:212:SITUAÇÃO ENCONTRADA
+153.pdf:213:SITUAÇÃO ENCONTRADA
+153.pdf:214:SITUAÇÃO ENCONTRADA
+153.pdf:216:SITUAÇÃO ENCONTRADA
+153.pdf:218:SITUAÇÃO ENCONTRADA
+153.pdf:219:SITUAÇÃO ENCONTRADA
+153.pdf:222:SITUAÇÃO ENCONTRADA
+153.pdf:223:SITUAÇÃO ENCONTRADA
+153.pdf:225:SITUAÇÃO ENCONTRADA
+153.pdf:227:SITUAÇÃO ENCONTRADA
+153.pdf:228:SITUAÇÃO ENCONTRADA
+153.pdf:230:SITUAÇÃO ENCONTRADA
+153.pdf:244:SITUAÇÃO ENCONTRADA
+153.pdf:247:SITUAÇÃO ENCONTRADA
+153.pdf:252:SITUAÇÃO ENCONTRADA
+153.pdf:253:fato
+153.pdf:254:SITUAÇÃO ENCONTRADA
+153.pdf:254:SITUAÇÃO ENCONTRADA
+153.pdf:256:SITUAÇÃO ENCONTRADA
+153.pdf:263:fato
+153.pdf:265:SITUAÇÃO ENCONTRADA
+153.pdf:267:SITUAÇÃO ENCONTRADA
+153.pdf:268:SITUAÇÃO ENCONTRADA
+153.pdf:268:fato
+153.pdf:271:SITUAÇÃO ENCONTRADA
+153.pdf:272:SITUAÇÃO ENCONTRADA
+153.pdf:273:fato
+153.pdf:274:SITUAÇÃO ENCONTRADA
+153.pdf:276:SITUAÇÃO ENCONTRADA
+153.pdf:280:SITUAÇÃO ENCONTRADA
+153.pdf:282:SITUAÇÃO ENCONTRADA
+153.pdf:284:SITUAÇÃO ENCONTRADA
+153.pdf:286:SITUAÇÃO ENCONTRADA
+153.pdf:291:fato
+153.pdf:291:fato
+154.pdf:3:fato
+154.pdf:16:fato
+154.pdf:17:fato
+154.pdf:17:fato
+154.pdf:21:fato
+154.pdf:22:Fato
+154.pdf:25:fato
+155.pdf:20:fato
+155.pdf:20:Fato
+155.pdf:38:fato
+155.pdf:45:fato
+156.pdf:13:fato
+156.pdf:16:fato
+156.pdf:19:fato
+156.pdf:26:fato
+156.pdf:26:fato
+156.pdf:27:fato
+156.pdf:28:fato
+156.pdf:28:fato
+156.pdf:28:fato
+156.pdf:28:fato
+156.pdf:29:fato
+156.pdf:33:fato
+156.pdf:34:fato
+156.pdf:36:Fato
+156.pdf:37:Fato
+156.pdf:38:fato
+156.pdf:40:fato
+156.pdf:42:fato
+156.pdf:42:fato
+156.pdf:42:fato
+156.pdf:43:fato
+156.pdf:43:fato
+156.pdf:44:fato
+157.pdf:31:fato
+157.pdf:35:fato
+157.pdf:39:fato
+157.pdf:46:fato
+157.pdf:52:fato
+157.pdf:59:fato
+157.pdf:60:fato
+157.pdf:69:fato
+157.pdf:70:fato
+157.pdf:75:fato
+157.pdf:76:fato
+157.pdf:77:fato
+157.pdf:78:fato
+158.pdf:23:fato
+158.pdf:27:Fato
+158.pdf:31:fato
+158.pdf:31:fato
+159.pdf:26:fato
+159.pdf:28:Fato
+159.pdf:29:fato
+159.pdf:29:fato
+159.pdf:30:fato
+159.pdf:30:fato
+15.pdf:17:fato
+15.pdf:18:fato
+15.pdf:21:fato
+15.pdf:28:fato
+15.pdf:29:fato
+15.pdf:30:fato
+160.pdf:13:Fato
+160.pdf:15:fato
+160.pdf:15:fato
+160.pdf:19:Fato
+161.pdf:15:fato
+161.pdf:27:Fato
+162.pdf:17:fato
+162.pdf:26:fato
+162.pdf:37:fato
+162.pdf:38:fato
+162.pdf:38:fato
+162.pdf:39:fato
+162.pdf:39:fato
+163.pdf:17:fato
+163.pdf:20:fato
+163.pdf:22:fato
+163.pdf:28:Fato
+164.pdf:10:fato
+164.pdf:14:fato
+164.pdf:18:Fato
+164.pdf:20:fato
+165.pdf:23:Fato
+166.pdf:16:fato
+166.pdf:30:fato
+166.pdf:30:fato
+166.pdf:34:fato
+166.pdf:39:fato
+166.pdf:42:fato
+166.pdf:43:fato
+166.pdf:43:fato
+166.pdf:45:fato
+166.pdf:58:fato
+166.pdf:73:fato
+166.pdf:77:fato
+166.pdf:81:Fato
+166.pdf:83:fato
+166.pdf:104:fato
+166.pdf:107:fato
+166.pdf:109:fato
+166.pdf:115:Fato
+166.pdf:134:Fato
+166.pdf:136:fato
+166.pdf:136:fato
+166.pdf:140:Fato
+166.pdf:167:Fato
+166.pdf:195:fato
+166.pdf:197:Fato
+166.pdf:198:fato
+166.pdf:198:fato
+166.pdf:199:fato
+166.pdf:199:fato
+166.pdf:218:fato
+166.pdf:230:Fato
+166.pdf:255:fato
+166.pdf:259:Fato
+166.pdf:263:fato
+166.pdf:263:fato
+166.pdf:281:fato
+166.pdf:290:fato
+166.pdf:301:fato
+166.pdf:302:fato
+166.pdf:302:fato
+166.pdf:303:fato
+166.pdf:303:fato
+166.pdf:329:fato
+166.pdf:332:fato
+166.pdf:335:fato
+166.pdf:342:fato
+166.pdf:342:fato
+166.pdf:343:fato
+166.pdf:344:fato
+166.pdf:344:fato
+166.pdf:344:fato
+166.pdf:344:fato
+166.pdf:345:fato
+166.pdf:349:fato
+166.pdf:350:fato
+166.pdf:352:Fato
+166.pdf:353:Fato
+166.pdf:354:fato
+166.pdf:356:fato
+166.pdf:358:fato
+166.pdf:358:fato
+166.pdf:358:fato
+166.pdf:359:fato
+166.pdf:359:fato
+166.pdf:360:fato
+166.pdf:373:fato
+166.pdf:375:fato
+166.pdf:386:fato
+166.pdf:387:fato
+166.pdf:393:fato
+166.pdf:395:fato
+166.pdf:395:fato
+166.pdf:395:fato
+167.pdf:9:fato
+167.pdf:13:fato
+167.pdf:13:fato
+167.pdf:14:fato
+168.pdf:3:fato
+168.pdf:9:fato
+168.pdf:9:fato
+168.pdf:13:fato
+168.pdf:18:fato
+168.pdf:20:fato
+169.pdf:3:fato
+169.pdf:8:FATO
+169.pdf:8:FATO
+169.pdf:12:fato
+169.pdf:15:fato
+169.pdf:25:fato
+169.pdf:26:fato
+169.pdf:28:fato
+169.pdf:29:fato
+169.pdf:30:fato
+16.pdf:7:fato
+16.pdf:7:fato
+16.pdf:20:fato
+16.pdf:20:fato
+16.pdf:25:fato
+16.pdf:25:fato
+16.pdf:28:fato
+16.pdf:28:fato
+16.pdf:28:fato
+16.pdf:36:fato
+16.pdf:37:fato
+16.pdf:43:situação encontrada
+16.pdf:44:fato
+16.pdf:44:fato
+16.pdf:45:fato
+16.pdf:45:fato
+16.pdf:47:situação encontrada
+16.pdf:49:fato
+170.pdf:3:fato
+170.pdf:24:fato
+170.pdf:26:fato
+170.pdf:27:fato
+170.pdf:27:fato
+170.pdf:28:fato
+170.pdf:31:fato
+170.pdf:32:fato
+170.pdf:34:fato
+170.pdf:34:fato
+170.pdf:39:fato
+170.pdf:43:fato
+170.pdf:49:fato
+170.pdf:50:fato
+170.pdf:53:fato
+170.pdf:54:fato
+170.pdf:54:fato
+170.pdf:55:fato
+170.pdf:56:fato
+170.pdf:57:fato
+170.pdf:57:fato
+170.pdf:59:fato
+170.pdf:59:fato
+170.pdf:59:fato
+170.pdf:60:fato
+170.pdf:60:fato
+170.pdf:61:fato
+171.pdf:10:fato
+171.pdf:12:fato
+171.pdf:23:fato
+171.pdf:24:fato
+171.pdf:30:fato
+171.pdf:32:fato
+171.pdf:32:fato
+171.pdf:32:fato
+172.pdf:4:fato
+172.pdf:18:fato
+172.pdf:27:fato
+172.pdf:28:fato
+172.pdf:32:fato
+172.pdf:32:fato
+172.pdf:42:fato
+172.pdf:43:fato
+172.pdf:43:fato
+172.pdf:45:fato
+172.pdf:48:fato
+172.pdf:50:fato
+172.pdf:51:fato
+172.pdf:51:fato
+172.pdf:52:fato
+173.pdf:11:fato
+173.pdf:13:fato
+173.pdf:13:fato
+173.pdf:15:fato
+173.pdf:16:fato
+173.pdf:18:fato
+173.pdf:48:fato
+174.pdf:12:fato
+174.pdf:32:Fato
+174.pdf:34:fato
+174.pdf:36:fato
+174.pdf:38:fato
+174.pdf:47:fato
+174.pdf:47:fato
+174.pdf:48:fato
+174.pdf:50:fato
+174.pdf:55:fato
+174.pdf:59:fato
+174.pdf:60:fato
+174.pdf:64:fato
+174.pdf:66:fato
+174.pdf:75:fato
+174.pdf:83:fato
+175.pdf:4:fato
+175.pdf:22:fato
+175.pdf:22:fato
+175.pdf:33:fato
+175.pdf:40:fato
+175.pdf:45:fato
+175.pdf:47:fato
+175.pdf:52:fato
+175.pdf:52:fato
+175.pdf:56:fato
+175.pdf:61:fato
+175.pdf:64:fato
+175.pdf:66:fato
+175.pdf:67:situação encontrada
+175.pdf:68:fato
+175.pdf:68:fato
+175.pdf:69:fato
+175.pdf:70:fato
+175.pdf:75:fato
+175.pdf:83:fato
+175.pdf:84:fato
+175.pdf:105:fato
+175.pdf:106:fato
+175.pdf:106:fato
+175.pdf:108:fato
+175.pdf:108:fato
+175.pdf:108:fato
+175.pdf:109:fato
+175.pdf:110:fato
+175.pdf:110:fato
+175.pdf:112:fato
+175.pdf:112:fato
+176.pdf:3:fato
+176.pdf:18:fato
+176.pdf:26:fato
+176.pdf:38:fato
+177.pdf:4:fato
+177.pdf:14:fato
+177.pdf:15:fato
+177.pdf:17:fato
+177.pdf:19:fato
+177.pdf:22:fato
+177.pdf:22:fato
+177.pdf:22:fato
+177.pdf:22:fato
+177.pdf:23:fato
+177.pdf:23:fato
+177.pdf:27:fato
+177.pdf:27:fato
+177.pdf:29:fato
+177.pdf:30:fato
+177.pdf:45:fato
+177.pdf:46:fato
+178.pdf:17:fato
+178.pdf:34:fato
+178.pdf:43:fato
+178.pdf:43:fato
+178.pdf:46:fato
+178.pdf:47:fato
+178.pdf:48:fato
+178.pdf:52:fato
+179.pdf:3:fato
+179.pdf:13:fato
+179.pdf:14:situação encontrada
+179.pdf:15:fato
+179.pdf:16:situação encontrada
+179.pdf:20:fato
+179.pdf:23:fato
+179.pdf:25:fato
+179.pdf:25:fato
+179.pdf:38:situação encontrada
+179.pdf:42:situação encontrada
+179.pdf:43:situações encontradas
+179.pdf:51:fato
+179.pdf:54:situação encontrada
+179.pdf:57:fato
+179.pdf:57:fato
+179.pdf:58:fato
+179.pdf:68:fato
+179.pdf:68:fato
+179.pdf:70:fato
+179.pdf:71:fato
+179.pdf:71:fato
+179.pdf:72:fato
+179.pdf:73:fato
+179.pdf:74:fato
+179.pdf:74:fato
+179.pdf:74:fato
+179.pdf:76:fato
+179.pdf:76:fato
+179.pdf:80:fato
+179.pdf:80:fato
+179.pdf:81:fato
+179.pdf:82:fato
+179.pdf:85:fato
+179.pdf:86:fato
+179.pdf:95:fato
+179.pdf:97:fato
+179.pdf:97:fato
+179.pdf:101:fato
+179.pdf:102:fato
+179.pdf:103:fato
+179.pdf:105:fato
+17.pdf:13:Fato
+17.pdf:13:Fato
+17.pdf:15:Fato
+17.pdf:24:fato
+17.pdf:39:fato
+17.pdf:49:fato
+180.pdf:9:fato
+180.pdf:15:fato
+180.pdf:16:fato
+180.pdf:17:fato
+180.pdf:17:fato
+180.pdf:18:fato
+181.pdf:9:situação encontrada
+181.pdf:12:Fato
+182.pdf:3:fato
+182.pdf:9:fato
+182.pdf:17:situação encontrada
+182.pdf:18:fato
+183.pdf:29:fato
+183.pdf:32:fato
+183.pdf:49:situações encontradas
+183.pdf:50:Situação encontrada
+183.pdf:54:fato
+183.pdf:54:fato
+183.pdf:86:fato
+183.pdf:154:SITUAÇÃO ENCONTRADA
+183.pdf:159:SITUAÇÃO ENCONTRADA
+183.pdf:168:SITUAÇÃO ENCONTRADA
+183.pdf:172:SITUAÇÃO ENCONTRADA
+183.pdf:176:SITUAÇÃO ENCONTRADA
+183.pdf:179:SITUAÇÃO ENCONTRADA
+183.pdf:184:SITUAÇÃO ENCONTRADA
+183.pdf:187:SITUAÇÃO ENCONTRADA
+183.pdf:192:SITUAÇÃO ENCONTRADA
+183.pdf:196:SITUAÇÃO ENCONTRADA
+183.pdf:198:fato
+183.pdf:198:fato
+183.pdf:202:SITUAÇÃO ENCONTRADA
+183.pdf:214:SITUAÇÃO ENCONTRADA
+183.pdf:219:SITUAÇÃO ENCONTRADA
+183.pdf:219:fato
+183.pdf:224:SITUAÇÃO ENCONTRADA
+183.pdf:224:situação encontrada
+183.pdf:227:SITUAÇÃO ENCONTRADA
+183.pdf:233:SITUAÇÃO ENCONTRADA
+183.pdf:237:SITUAÇÃO ENCONTRADA
+183.pdf:244:SITUAÇÃO ENCONTRADA
+183.pdf:250:SITUAÇÃO ENCONTRADA
+183.pdf:254:SITUAÇÃO ENCONTRADA
+183.pdf:260:SITUAÇÃO ENCONTRADA
+183.pdf:265:SITUAÇÃO ENCONTRADA
+183.pdf:269:SITUAÇÃO ENCONTRADA
+183.pdf:276:SITUAÇÃO ENCONTRADA
+183.pdf:286:SITUAÇÃO ENCONTRADA
+183.pdf:289:SITUAÇÃO ENCONTRADA
+183.pdf:291:FATO
+183.pdf:292:SITUAÇÃO ENCONTRADA
+183.pdf:292:fato
+183.pdf:294:SITUAÇÃO ENCONTRADA
+183.pdf:301:SITUAÇÃO ENCONTRADA
+183.pdf:303:SITUAÇÃO ENCONTRADA
+183.pdf:306:SITUAÇÃO ENCONTRADA
+183.pdf:308:SITUAÇÃO ENCONTRADA
+183.pdf:313:SITUAÇÃO ENCONTRADA
+183.pdf:320:SITUAÇÃO ENCONTRADA
+183.pdf:322:SITUAÇÃO ENCONTRADA
+183.pdf:324:SITUAÇÃO ENCONTRADA
+183.pdf:326:SITUAÇÃO ENCONTRADA
+183.pdf:328:SITUAÇÃO ENCONTRADA
+183.pdf:330:SITUAÇÃO ENCONTRADA
+183.pdf:332:SITUAÇÃO ENCONTRADA
+183.pdf:334:SITUAÇÃO ENCONTRADA
+183.pdf:336:SITUAÇÃO ENCONTRADA
+183.pdf:338:SITUAÇÃO ENCONTRADA
+183.pdf:341:SITUAÇÃO ENCONTRADA
+183.pdf:344:SITUAÇÃO ENCONTRADA
+183.pdf:346:SITUAÇÃO ENCONTRADA
+183.pdf:347:SITUAÇÃO ENCONTRADA
+183.pdf:352:SITUAÇÃO ENCONTRADA
+183.pdf:354:SITUAÇÃO ENCONTRADA
+183.pdf:357:SITUAÇÃO ENCONTRADA
+183.pdf:359:SITUAÇÃO ENCONTRADA
+183.pdf:361:SITUAÇÃO ENCONTRADA
+183.pdf:365:SITUAÇÃO ENCONTRADA
+183.pdf:367:SITUAÇÃO ENCONTRADA
+183.pdf:367:fato
+183.pdf:369:SITUAÇÃO ENCONTRADA
+183.pdf:370:fato
+183.pdf:372:fato
+183.pdf:374:SITUAÇÃO ENCONTRADA
+183.pdf:383:SITUAÇÃO ENCONTRADA
+183.pdf:386:SITUAÇÃO ENCONTRADA
+183.pdf:390:SITUAÇÃO ENCONTRADA
+183.pdf:399:SITUAÇÃO ENCONTRADA
+183.pdf:406:SITUAÇÃO ENCONTRADA
+183.pdf:409:SITUAÇÃO ENCONTRADA
+183.pdf:412:SITUAÇÃO ENCONTRADA
+183.pdf:415:SITUAÇÃO ENCONTRADA
+183.pdf:417:SITUAÇÃO ENCONTRADA
+183.pdf:420:SITUAÇÃO ENCONTRADA
+183.pdf:423:SITUAÇÃO ENCONTRADA
+183.pdf:426:SITUAÇÃO ENCONTRADA
+183.pdf:429:SITUAÇÃO ENCONTRADA
+183.pdf:432:SITUAÇÃO ENCONTRADA
+183.pdf:435:SITUAÇÃO ENCONTRADA
+183.pdf:438:SITUAÇÃO ENCONTRADA
+183.pdf:441:SITUAÇÃO ENCONTRADA
+183.pdf:450:SITUAÇÃO ENCONTRADA
+183.pdf:465:fato
+183.pdf:472:FATO
+183.pdf:473:SITUAÇÃO ENCONTRADA
+183.pdf:473:fato
+183.pdf:475:FATO
+183.pdf:476:SITUAÇÃO ENCONTRADA
+183.pdf:479:SITUAÇÃO ENCONTRADA
+183.pdf:479:situação encontrada
+183.pdf:480:Situação encontrada
+183.pdf:487:SITUAÇÃO ENCONTRADA
+183.pdf:490:SITUAÇÃO ENCONTRADA
+183.pdf:494:SITUAÇÃO ENCONTRADA
+183.pdf:498:SITUAÇÃO ENCONTRADA
+183.pdf:499:SITUAÇÃO ENCONTRADA
+183.pdf:500:SITUAÇÃO ENCONTRADA
+183.pdf:503:SITUAÇÃO ENCONTRADA
+183.pdf:506:SITUAÇÃO ENCONTRADA
+183.pdf:513:SITUAÇÃO ENCONTRADA
+183.pdf:515:SITUAÇÃO ENCONTRADA
+183.pdf:518:SITUAÇÃO ENCONTRADA
+183.pdf:520:SITUAÇÃO ENCONTRADA
+183.pdf:522:SITUAÇÃO ENCONTRADA
+183.pdf:523:SITUAÇÃO ENCONTRADA
+183.pdf:524:SITUAÇÃO ENCONTRADA
+183.pdf:525:SITUAÇÃO ENCONTRADA
+183.pdf:527:SITUAÇÃO ENCONTRADA
+183.pdf:536:SITUAÇÃO ENCONTRADA
+183.pdf:539:SITUAÇÃO ENCONTRADA
+183.pdf:545:SITUAÇÃO ENCONTRADA
+183.pdf:547:SITUAÇÃO ENCONTRADA
+183.pdf:552:SITUAÇÃO ENCONTRADA
+183.pdf:555:SITUAÇÃO ENCONTRADA
+183.pdf:558:SITUAÇÃO ENCONTRADA
+183.pdf:561:SITUAÇÃO ENCONTRADA
+183.pdf:563:SITUAÇÃO ENCONTRADA
+183.pdf:566:SITUAÇÃO ENCONTRADA
+183.pdf:571:SITUAÇÃO ENCONTRADA
+183.pdf:576:SITUAÇÃO ENCONTRADA
+183.pdf:581:SITUAÇÃO ENCONTRADA
+183.pdf:595:SITUAÇÃO ENCONTRADA
+183.pdf:598:SITUAÇÃO ENCONTRADA
+183.pdf:604:SITUAÇÃO ENCONTRADA
+183.pdf:607:SITUAÇÃO ENCONTRADA
+183.pdf:611:SITUAÇÃO ENCONTRADA
+183.pdf:618:SITUAÇÃO ENCONTRADA
+183.pdf:621:SITUAÇÃO ENCONTRADA
+183.pdf:624:SITUAÇÃO ENCONTRADA
+183.pdf:628:SITUAÇÃO ENCONTRADA
+183.pdf:632:SITUAÇÃO ENCONTRADA
+183.pdf:636:SITUAÇÃO ENCONTRADA
+183.pdf:640:SITUAÇÃO ENCONTRADA
+183.pdf:643:SITUAÇÃO ENCONTRADA
+183.pdf:646:SITUAÇÃO ENCONTRADA
+183.pdf:657:SITUAÇÃO ENCONTRADA
+183.pdf:661:SITUAÇÃO ENCONTRADA
+183.pdf:665:SITUAÇÃO ENCONTRADA
+183.pdf:670:SITUAÇÃO ENCONTRADA
+183.pdf:673:SITUAÇÃO ENCONTRADA
+183.pdf:676:SITUAÇÃO ENCONTRADA
+183.pdf:679:SITUAÇÃO ENCONTRADA
+183.pdf:682:SITUAÇÃO ENCONTRADA
+183.pdf:685:SITUAÇÃO ENCONTRADA
+183.pdf:688:SITUAÇÃO ENCONTRADA
+183.pdf:691:SITUAÇÃO ENCONTRADA
+183.pdf:694:SITUAÇÃO ENCONTRADA
+183.pdf:704:SITUAÇÃO ENCONTRADA
+183.pdf:708:SITUAÇÃO ENCONTRADA
+183.pdf:712:SITUAÇÃO ENCONTRADA
+183.pdf:716:SITUAÇÃO ENCONTRADA
+183.pdf:744:fato
+183.pdf:747:SITUAÇÃO ENCONTRADA
+183.pdf:751:SITUAÇÃO ENCONTRADA
+183.pdf:754:SITUAÇÃO ENCONTRADA
+183.pdf:756:SITUAÇÃO ENCONTRADA
+183.pdf:760:SITUAÇÃO ENCONTRADA
+183.pdf:766:SITUAÇÃO ENCONTRADA
+183.pdf:769:SITUAÇÃO ENCONTRADA
+183.pdf:772:SITUAÇÃO ENCONTRADA
+183.pdf:776:SITUAÇÃO ENCONTRADA
+183.pdf:777:fato
+183.pdf:780:SITUAÇÃO ENCONTRADA
+183.pdf:782:SITUAÇÃO ENCONTRADA
+183.pdf:785:SITUAÇÃO ENCONTRADA
+183.pdf:788:SITUAÇÃO ENCONTRADA
+183.pdf:794:SITUAÇÃO ENCONTRADA
+183.pdf:798:SITUAÇÃO ENCONTRADA
+183.pdf:801:fato
+183.pdf:801:fato
+183.pdf:802:fato
+183.pdf:804:SITUAÇÃO ENCONTRADA
+183.pdf:808:SITUAÇÃO ENCONTRADA
+183.pdf:812:SITUAÇÃO ENCONTRADA
+186.pdf:5:Fato
+186.pdf:5:fato
+186.pdf:7:Fato
+186.pdf:7:Fato
+186.pdf:9:Fato
+186.pdf:10:Fato
+187.pdf:11:fato
+187.pdf:17:fato
+187.pdf:26:fato
+187.pdf:35:fato
+187.pdf:37:fato
+187.pdf:39:fato
+187.pdf:40:fato
+187.pdf:40:fato
+187.pdf:44:fato
+187.pdf:47:fato
+187.pdf:62:fato
+187.pdf:63:fato
+188.pdf:10:fato
+188.pdf:15:fato
+188.pdf:15:fato
+188.pdf:18:fato
+188.pdf:26:fato
+188.pdf:26:fato
+188.pdf:27:fato
+188.pdf:30:fato
+188.pdf:32:fato
+188.pdf:35:fato
+188.pdf:38:fato
+188.pdf:38:fato
+188.pdf:39:fato
+188.pdf:39:fato
+188.pdf:40:fato
+188.pdf:40:fato
+18.pdf:21:fato
+18.pdf:32:fato
+18.pdf:32:fato
+18.pdf:41:fato
+18.pdf:49:fato
+18.pdf:55:fato
+190.pdf:34:fato
+190.pdf:83:fato
+190.pdf:84:fato
+190.pdf:86:fato
+190.pdf:88:fato
+190.pdf:94:fato
+190.pdf:95:fato
+190.pdf:107:fato
+190.pdf:108:fato
+190.pdf:108:fato
+190.pdf:126:fato
+190.pdf:129:Fato
+190.pdf:131:fato
+190.pdf:151:fato
+190.pdf:151:fato
+190.pdf:151:fato
+190.pdf:152:fato
+190.pdf:152:fato
+190.pdf:154:fato
+190.pdf:157:fato
+190.pdf:158:fato
+190.pdf:165:fato
+190.pdf:168:fato
+190.pdf:171:fato
+190.pdf:175:fato
+190.pdf:178:fato
+190.pdf:178:fato
+190.pdf:179:fato
+190.pdf:182:fato
+190.pdf:183:fato
+190.pdf:189:fato
+190.pdf:194:fato
+190.pdf:195:fato
+190.pdf:196:fato
+190.pdf:212:fato
+190.pdf:214:fato
+190.pdf:235:fato
+190.pdf:241:fato
+190.pdf:241:fato
+190.pdf:242:fato
+190.pdf:242:fato
+190.pdf:247:fato
+190.pdf:247:fato
+190.pdf:261:fato
+190.pdf:288:fato
+190.pdf:291:fato
+190.pdf:302:fato
+190.pdf:309:fato
+190.pdf:319:fato
+190.pdf:322:fato
+190.pdf:341:fato
+190.pdf:341:fato
+190.pdf:356:fato
+190.pdf:359:fato
+190.pdf:386:fato
+190.pdf:390:fato
+190.pdf:396:fato
+190.pdf:396:fato
+190.pdf:396:fato
+190.pdf:397:fato
+190.pdf:408:fato
+190.pdf:409:fato
+192.pdf:10:fato
+192.pdf:11:fato
+193.pdf:8:fato
+194.pdf:14:fato
+194.pdf:18:fato
+194.pdf:24:fato
+194.pdf:24:fato
+194.pdf:24:fato
+194.pdf:25:fato
+195.pdf:13:fato
+195.pdf:15:fato
+196.pdf:14:fato
+196.pdf:17:fato
+197.pdf:18:fato
+198.pdf:11:fato
+198.pdf:14:fato
+199.pdf:8:fato
+199.pdf:15:fato
+199.pdf:25:fato
+199.pdf:28:fato
+19.pdf:8:fato
+19.pdf:11:fato
+19.pdf:18:fato
+200.pdf:17:fato
+200.pdf:23:fato
+200.pdf:23:fato
+200.pdf:24:fato
+200.pdf:24:fato
+200.pdf:29:fato
+200.pdf:29:fato
+201.pdf:19:fato
+201.pdf:20:fato
+201.pdf:22:fato
+201.pdf:24:fato
+201.pdf:30:fato
+201.pdf:31:fato
+201.pdf:43:fato
+201.pdf:44:fato
+201.pdf:44:fato
+202.pdf:9:fato
+202.pdf:12:Fato
+202.pdf:14:fato
+202.pdf:34:fato
+202.pdf:34:fato
+202.pdf:34:fato
+202.pdf:35:fato
+202.pdf:35:fato
+202.pdf:37:fato
+202.pdf:40:fato
+202.pdf:41:fato
+202.pdf:48:fato
+202.pdf:51:fato
+202.pdf:54:fato
+202.pdf:58:fato
+202.pdf:61:fato
+202.pdf:61:fato
+202.pdf:62:fato
+202.pdf:65:fato
+202.pdf:66:fato
+202.pdf:72:fato
+202.pdf:77:fato
+202.pdf:78:fato
+202.pdf:79:fato
+203.pdf:10:fato
+203.pdf:17:fato
+204.pdf:11:fato
+204.pdf:13:fato
+204.pdf:20:fato
+204.pdf:20:fato
+204.pdf:21:fato
+204.pdf:21:fato
+204.pdf:23:fato
+204.pdf:23:fato
+204.pdf:25:fato
+204.pdf:25:fato
+204.pdf:25:fato
+204.pdf:26:fato
+204.pdf:26:fato
+204.pdf:26:fato
+204.pdf:27:fato
+204.pdf:27:fato
+204.pdf:30:fato
+204.pdf:31:fato
+204.pdf:32:fato
+204.pdf:36:fato
+204.pdf:38:fato
+204.pdf:44:fato
+204.pdf:45:fato
+204.pdf:58:fato
+204.pdf:59:fato
+204.pdf:59:fato
+204.pdf:60:fato
+204.pdf:60:fato
+204.pdf:60:fato
+204.pdf:62:fato
+204.pdf:67:fato
+204.pdf:67:fato
+204.pdf:67:fato
+204.pdf:67:fato
+204.pdf:67:fato
+204.pdf:67:fato
+204.pdf:73:fato
+204.pdf:74:fato
+204.pdf:82:Fato
+204.pdf:82:fato
+204.pdf:84:fato
+204.pdf:87:fato
+204.pdf:87:fato
+204.pdf:87:fato
+204.pdf:93:Fato
+204.pdf:94:Fato
+204.pdf:95:fato
+204.pdf:95:fato
+204.pdf:99:fato
+204.pdf:100:fato
+204.pdf:103:fato
+204.pdf:103:fato
+204.pdf:105:fato
+204.pdf:105:fato
+204.pdf:109:fato
+204.pdf:111:fato
+204.pdf:112:fato
+204.pdf:113:fato
+204.pdf:113:fato
+204.pdf:113:fato
+204.pdf:115:fato
+204.pdf:115:fato
+204.pdf:118:fato
+205.pdf:8:fato
+205.pdf:13:fato
+205.pdf:20:fato
+205.pdf:24:fato
+205.pdf:32:fato
+205.pdf:33:fato
+205.pdf:33:fato
+205.pdf:36:fato
+205.pdf:37:fato
+206.pdf:9:fato
+206.pdf:20:fato
+206.pdf:21:fato
+206.pdf:22:fato
+206.pdf:23:fato
+206.pdf:23:fato
+206.pdf:24:fato
+206.pdf:25:fato
+206.pdf:25:fato
+206.pdf:26:fato
+206.pdf:27:fato
+206.pdf:29:fato
+206.pdf:29:fato
+206.pdf:30:fato
+206.pdf:31:fato
+206.pdf:32:fato
+206.pdf:32:fato
+206.pdf:43:fato
+206.pdf:44:fato
+206.pdf:46:fato
+207.pdf:7:fato
+20.pdf:12:situações encontradas
+20.pdf:19:fato
+20.pdf:24:situação encontrada
+20.pdf:24:fato
+20.pdf:26:fato
+20.pdf:27:fato
+20.pdf:28:fato
+20.pdf:32:fato
+210.pdf:12:fato
+210.pdf:17:fato
+210.pdf:19:fato
+210.pdf:19:fato
+210.pdf:19:fato
+210.pdf:20:fato
+211.pdf:3:fato
+211.pdf:14:fato
+211.pdf:15:fato
+212.pdf:10:fato
+212.pdf:10:fato
+212.pdf:10:fato
+212.pdf:10:fato
+212.pdf:16:fato
+213.pdf:3:fato
+213.pdf:7:fato
+213.pdf:12:fato
+213.pdf:12:fato
+213.pdf:14:fato
+213.pdf:17:fato
+213.pdf:19:fato
+213.pdf:22:fato
+213.pdf:23:fato
+214.pdf:18:fato
+214.pdf:25:fato
+214.pdf:28:fato
+214.pdf:28:fato
+214.pdf:29:fato
+214.pdf:29:fato
+214.pdf:30:fato
+214.pdf:30:fato
+214.pdf:43:fato
+214.pdf:46:fato
+214.pdf:48:fato
+214.pdf:55:fato
+214.pdf:55:fato
+214.pdf:57:fato
+214.pdf:58:fato
+214.pdf:58:fato
+215.pdf:13:fato
+215.pdf:13:fato
+215.pdf:21:fato
+215.pdf:36:fato
+215.pdf:37:fato
+215.pdf:44:fato
+217.pdf:13:fato
+217.pdf:13:fato
+218.pdf:3:fato
+218.pdf:16:fato
+218.pdf:16:fato
+218.pdf:20:situação encontrada
+218.pdf:20:fato
+218.pdf:25:fato
+218.pdf:25:fato
+219.pdf:9:fato
+219.pdf:10:fato
+219.pdf:10:fato
+219.pdf:10:fato
+219.pdf:11:fato
+219.pdf:11:fato
+219.pdf:11:fato
+219.pdf:11:fato
+219.pdf:11:fato
+219.pdf:11:fato
+219.pdf:13:fato
+219.pdf:17:fato
+21.pdf:3:fato
+220.pdf:8:fato
+220.pdf:10:fato
+220.pdf:18:fato
+220.pdf:22:fato
+221.pdf:5:fato
+221.pdf:16:fato
+221.pdf:24:fato
+221.pdf:24:fato
+221.pdf:27:Fato
+221.pdf:27:fato
+221.pdf:32:fato
+221.pdf:37:fato
+221.pdf:39:fato
+221.pdf:39:fato
+222.pdf:3:fato
+222.pdf:4:fato
+222.pdf:10:fato
+222.pdf:13:fato
+222.pdf:18:fato
+222.pdf:19:fato
+222.pdf:21:fato
+222.pdf:23:fato
+222.pdf:34:Fato
+222.pdf:35:fato
+224.pdf:3:fato
+224.pdf:11:fato
+224.pdf:15:fato
+224.pdf:28:fato
+224.pdf:28:fato
+224.pdf:32:fato
+224.pdf:38:fato
+224.pdf:38:fato
+224.pdf:38:fato
+224.pdf:43:fato
+224.pdf:43:fato
+224.pdf:44:fato
+224.pdf:45:fato
+224.pdf:48:fato
+224.pdf:48:fato
+224.pdf:49:fato
+224.pdf:49:fato
+224.pdf:50:fato
+224.pdf:50:fato
+224.pdf:53:fato
+224.pdf:54:fato
+224.pdf:54:fato
+229.pdf:6:fato
+229.pdf:8:fato
+22.pdf:31:fato
+22.pdf:66:fato
+22.pdf:70:fato
+22.pdf:73:fato
+22.pdf:74:fato
+22.pdf:75:fato
+22.pdf:76:fato
+22.pdf:77:fato
+22.pdf:77:fato
+22.pdf:79:fato
+22.pdf:81:fato
+22.pdf:82:fato
+22.pdf:82:fato
+22.pdf:83:fato
+22.pdf:83:fato
+22.pdf:84:fato
+22.pdf:84:fato
+230.pdf:3:fato
+230.pdf:7:fato
+230.pdf:15:fato
+230.pdf:16:fato
+230.pdf:20:fato
+230.pdf:25:Fato
+231.pdf:12:fato
+232.pdf:7:fato
+232.pdf:7:fato
+232.pdf:8:fato
+232.pdf:9:fato
+232.pdf:10:fato
+233.pdf:3:fato
+233.pdf:11:fato
+233.pdf:11:fato
+233.pdf:20:fato
+233.pdf:29:fato
+233.pdf:32:fato
+233.pdf:34:fato
+234.pdf:18:fato
+234.pdf:21:fato
+234.pdf:21:fato
+234.pdf:21:fato
+234.pdf:44:fato
+234.pdf:44:fato
+235.pdf:16:fato
+235.pdf:19:fato
+235.pdf:22:fato
+235.pdf:23:fato
+235.pdf:25:situação encontrada
+235.pdf:26:condição encontrada
+235.pdf:28:fato
+235.pdf:33:fato
+235.pdf:48:Fato
+235.pdf:52:fato
+235.pdf:54:situação encontrada
+236.pdf:10:fato
+236.pdf:15:fato
+236.pdf:17:fato
+236.pdf:18:fato
+237.pdf:10:fato
+237.pdf:11:fato
+237.pdf:11:fato
+237.pdf:12:fato
+237.pdf:12:fato
+237.pdf:16:fato
+237.pdf:17:fato
+237.pdf:18:fato
+238.pdf:10:fato
+238.pdf:10:fato
+238.pdf:11:fato
+23.pdf:22:fato
+23.pdf:25:fato
+23.pdf:29:fato
+23.pdf:47:fato
+23.pdf:49:fato
+23.pdf:61:fato
+240.pdf:13:fato
+240.pdf:15:fato
+241.pdf:19:fato
+241.pdf:19:fato
+241.pdf:20:fato
+243.pdf:14:situação encontrada
+243.pdf:15:fato
+243.pdf:17:fato
+243.pdf:18:fato
+243.pdf:18:fato
+243.pdf:19:fato
+246.pdf:4:fato
+246.pdf:12:fato
+246.pdf:14:fato
+246.pdf:16:fato
+246.pdf:16:fato
+246.pdf:17:fato
+247.pdf:12:fato
+247.pdf:16:fato
+247.pdf:20:fato
+248.pdf:14:fato
+248.pdf:16:fato
+252.pdf:11:Fato
+252.pdf:12:fato
+252.pdf:20:fato
+253.pdf:10:fato
+254.pdf:19:fato
+257.pdf:13:fato
+257.pdf:14:fato
+257.pdf:15:situação encontrada
+257.pdf:15:fato
+258.pdf:11:fato
+258.pdf:12:fato
+258.pdf:16:fato
+259.pdf:4:fato
+259.pdf:6:fato
+259.pdf:10:fato
+259.pdf:14:fato
+25.pdf:21:fato
+25.pdf:23:fato
+260.pdf:4:fato
+260.pdf:6:fato
+260.pdf:10:fato
+260.pdf:15:fato
+263.pdf:13:fato
+263.pdf:14:fato
+264.pdf:14:fato
+265.pdf:11:fato
+265.pdf:14:fato
+265.pdf:18:fato
+265.pdf:21:fato
+265.pdf:21:fato
+265.pdf:21:fato
+266.pdf:14:fato
+266.pdf:20:fato
+267.pdf:4:fato
+267.pdf:18:fato
+267.pdf:25:fato
+268.pdf:12:fato
+268.pdf:13:fato
+270.pdf:12:fato
+272.pdf:19:fato
+273.pdf:8:fato
+273.pdf:8:fato
+273.pdf:16:fato
+273.pdf:20:fato
+274.pdf:14:fato
+274.pdf:18:fato
+274.pdf:18:fato
+274.pdf:20:fato
+274.pdf:24:fato
+274.pdf:25:Fato
+274.pdf:27:fato
+275.pdf:18:fato
+276.pdf:11:fato
+276.pdf:13:fato
+277.pdf:13:fato
+277.pdf:16:fato
+277.pdf:36:fato
+277.pdf:37:fato
+277.pdf:38:fato
+277.pdf:39:fato
+278.pdf:20:fato
+280.pdf:36:fato
+280.pdf:44:fato
+282.pdf:12:fato
+284.pdf:12:fato
+285.pdf:17:fato
+286.pdf:13:fato
+286.pdf:14:fato
+289.pdf:17:situações encontradas
+289.pdf:20:fato
+290.pdf:12:fato
+290.pdf:24:fato
+290.pdf:25:fato
+290.pdf:25:fato
+290.pdf:25:fato
+293.pdf:13:fato
+294.pdf:12:fato
+296.pdf:11:fato
+296.pdf:12:fato
+296.pdf:12:fato
+296.pdf:13:fato
+296.pdf:15:fato
+296.pdf:18:fato
+296.pdf:19:fato
+297.pdf:12:fato
+297.pdf:12:fato
+297.pdf:13:fato
+297.pdf:18:fato
+297.pdf:21:fato
+297.pdf:22:fato
+29.pdf:9:fato
+29.pdf:17:fato
+29.pdf:20:fato
+29.pdf:21:fato
+29.pdf:28:fato
+29.pdf:33:fato
+29.pdf:36:situação encontrada
+29.pdf:39:Fato
+29.pdf:41:fato
+29.pdf:49:fato
+29.pdf:51:fato
+300.pdf:19:fato
+300.pdf:21:fato
+300.pdf:23:fato
+301.pdf:15:fato
+302.pdf:12:fato
+302.pdf:12:fato
+302.pdf:15:fato
+303.pdf:22:fato
+303.pdf:31:fato
+303.pdf:36:fato
+303.pdf:37:condição encontrada
+307.pdf:8:fato
+307.pdf:12:fato
+307.pdf:12:fato
+307.pdf:13:fato
+307.pdf:13:fato
+307.pdf:13:fato
+307.pdf:13:fato
+307.pdf:14:fato
+307.pdf:19:fato
+307.pdf:26:fato
+308.pdf:11:fato
+308.pdf:22:fato
+308.pdf:35:fato
+308.pdf:39:fato
+30.pdf:3:fato
+310.pdf:12:fato
+310.pdf:16:fato
+310.pdf:18:fato
+310.pdf:22:fato
+311.pdf:12:fato
+311.pdf:16:fato
+311.pdf:18:fato
+311.pdf:22:fato
+312.pdf:12:fato
+312.pdf:15:fato
+313.pdf:12:fato
+313.pdf:14:fato
+313.pdf:15:fato
+313.pdf:19:Fato
+314.pdf:19:fato
+314.pdf:20:fato
+315.pdf:14:fato
+315.pdf:14:fato
+315.pdf:22:fato
+315.pdf:23:fato
+315.pdf:24:fato
+315.pdf:32:fato
+315.pdf:33:fato
+315.pdf:42:fato
+315.pdf:44:Fato
+315.pdf:49:fato
+315.pdf:49:fato
+315.pdf:49:Fato
+315.pdf:59:fato
+315.pdf:63:fato
+317.pdf:13:fato
+318.pdf:13:fato
+31.pdf:12:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:13:Fato
+31.pdf:14:Fato
+31.pdf:14:Fato
+31.pdf:15:Fato
+31.pdf:15:Fato
+31.pdf:15:Fato
+31.pdf:16:Fato
+31.pdf:16:fato
+31.pdf:16:Fato
+31.pdf:17:fato
+31.pdf:18:Fato
+31.pdf:18:fato
+31.pdf:19:fato
+31.pdf:19:fato
+31.pdf:22:fato
+31.pdf:23:fato
+31.pdf:24:fato
+31.pdf:24:fato
+31.pdf:26:fato
+31.pdf:30:fato
+31.pdf:31:fato
+31.pdf:31:fato
+31.pdf:31:fato
+31.pdf:33:fato
+31.pdf:33:Fato
+31.pdf:41:fato
+31.pdf:45:fato
+31.pdf:46:fato
+31.pdf:53:fato
+31.pdf:54:fato
+31.pdf:54:fato
+31.pdf:55:fato
+31.pdf:58:fato
+31.pdf:59:fato
+31.pdf:61:fato
+31.pdf:61:fato
+31.pdf:68:fato
+31.pdf:70:fato
+31.pdf:70:fato
+31.pdf:71:fato
+31.pdf:74:fato
+322.pdf:21:fato
+322.pdf:21:fato
+323.pdf:21:fato
+323.pdf:22:fato
+324.pdf:17:fato
+324.pdf:27:fato
+328.pdf:3:fato
+328.pdf:10:Fato
+328.pdf:15:fato
+328.pdf:15:fato
+328.pdf:17:fato
+329.pdf:4:fato
+329.pdf:20:fato
+329.pdf:21:fato
+329.pdf:29:fato
+329.pdf:34:fato
+329.pdf:40:fato
+329.pdf:40:fato
+329.pdf:52:fato
+329.pdf:56:fato
+329.pdf:57:fato
+330.pdf:13:fato
+330.pdf:13:fato
+330.pdf:14:fato
+330.pdf:14:fato
+330.pdf:22:fato
+330.pdf:22:fato
+330.pdf:22:fato
+330.pdf:24:fato
+330.pdf:24:fato
+330.pdf:24:fato
+330.pdf:27:fato
+330.pdf:28:fato
+330.pdf:29:fato
+330.pdf:30:fato
+330.pdf:36:fato
+330.pdf:37:fato
+330.pdf:44:fato
+330.pdf:45:fato
+331.pdf:22:fato
+331.pdf:26:fato
+331.pdf:32:fato
+331.pdf:38:fato
+331.pdf:49:fato
+331.pdf:50:fato
+332.pdf:7:fato
+332.pdf:11:fato
+332.pdf:12:fato
+332.pdf:21:fato
+332.pdf:21:fato
+332.pdf:23:fato
+332.pdf:26:fato
+332.pdf:29:fato
+332.pdf:32:fato
+332.pdf:34:fato
+332.pdf:35:fato
+333.pdf:7:fato
+333.pdf:12:fato
+333.pdf:13:fato
+333.pdf:20:fato
+333.pdf:24:fato
+333.pdf:28:fato
+333.pdf:29:fato
+333.pdf:29:fato
+333.pdf:33:fato
+333.pdf:33:fato
+333.pdf:36:fato
+333.pdf:39:fato
+333.pdf:39:fato
+333.pdf:42:fato
+333.pdf:42:fato
+333.pdf:43:fato
+333.pdf:43:fato
+333.pdf:47:fato
+333.pdf:55:fato
+333.pdf:63:fato
+333.pdf:63:fato
+333.pdf:64:fato
+333.pdf:69:fato
+333.pdf:69:fato
+333.pdf:75:fato
+333.pdf:76:fato
+333.pdf:77:fato
+333.pdf:79:fato
+333.pdf:79:fato
+334.pdf:9:Fato
+334.pdf:21:situações encontradas
+334.pdf:23:fato
+335.pdf:8:fato
+335.pdf:16:fato
+335.pdf:16:fato
+335.pdf:18:fato
+335.pdf:28:fato
+335.pdf:38:fato
+335.pdf:40:fato
+335.pdf:42:condição encontrada
+336.pdf:19:fato
+336.pdf:19:fato
+336.pdf:32:fato
+336.pdf:34:fato
+336.pdf:34:fato
+336.pdf:39:fato
+336.pdf:41:fato
+336.pdf:48:fato
+336.pdf:53:fato
+336.pdf:62:Fato
+336.pdf:67:fato
+336.pdf:76:fato
+336.pdf:78:fato
+337.pdf:9:fato
+338.pdf:9:fato
+339.pdf:3:fato
+339.pdf:11:fato
+339.pdf:29:fato
+339.pdf:29:fato
+339.pdf:30:fato
+339.pdf:33:fato
+33.pdf:8:fato
+33.pdf:12:fato
+33.pdf:12:fato
+33.pdf:15:fato
+33.pdf:15:fato
+33.pdf:16:fato
+33.pdf:17:fato
+33.pdf:17:fato
+33.pdf:17:fato
+33.pdf:24:fato
+33.pdf:29:fato
+33.pdf:31:fato
+33.pdf:37:fato
+33.pdf:39:fato
+33.pdf:42:fato
+33.pdf:48:fato
+33.pdf:48:fato
+33.pdf:50:fato
+33.pdf:50:Fato
+33.pdf:50:fato
+33.pdf:50:fato
+33.pdf:53:Fato
+33.pdf:64:fato
+33.pdf:81:fato
+33.pdf:84:Fato
+33.pdf:84:Fato
+340.pdf:21:fato
+340.pdf:22:fato
+340.pdf:23:fato
+340.pdf:24:fato
+340.pdf:25:fato
+340.pdf:28:fato
+340.pdf:45:fato
+340.pdf:46:fato
+340.pdf:53:fato
+340.pdf:53:fato
+341.pdf:10:fato
+34.pdf:7:fato
+34.pdf:11:fato
+34.pdf:29:fato
+34.pdf:29:fato
+34.pdf:30:fato
+34.pdf:30:fato
+34.pdf:31:fato
+34.pdf:35:fato
+34.pdf:37:fato
+34.pdf:37:fato
+34.pdf:39:fato
+34.pdf:40:fato
+34.pdf:41:fato
+34.pdf:47:fato
+34.pdf:47:fato
+35.pdf:7:fato
+35.pdf:24:fato
+35.pdf:26:fato
+35.pdf:26:fato
+35.pdf:27:fato
+35.pdf:27:fato
+35.pdf:30:fato
+35.pdf:33:fato
+35.pdf:34:fato
+35.pdf:34:fato
+35.pdf:35:fato
+35.pdf:35:fato
+35.pdf:36:fato
+36.pdf:3:fato
+36.pdf:15:fato
+36.pdf:19:fato
+36.pdf:19:fato
+36.pdf:20:fato
+36.pdf:27:fato
+36.pdf:28:fato
+36.pdf:33:fato
+36.pdf:35:fato
+36.pdf:36:fato
+36.pdf:36:fato
+36.pdf:36:fato
+36.pdf:38:fato
+36.pdf:38:fato
+36.pdf:39:fato
+36.pdf:41:fato
+36.pdf:43:fato
+36.pdf:44:fato
+37.pdf:15:fato
+37.pdf:22:fato
+37.pdf:25:fato
+37.pdf:31:fato
+37.pdf:32:fato
+37.pdf:33:fato
+37.pdf:37:fato
+37.pdf:38:fato
+37.pdf:38:fato
+37.pdf:39:fato
+37.pdf:39:fato
+37.pdf:45:fato
+37.pdf:45:fato
+37.pdf:46:fato
+37.pdf:48:FATO
+37.pdf:48:fato
+37.pdf:53:fato
+37.pdf:53:fato
+37.pdf:54:fato
+37.pdf:54:fato
+37.pdf:55:fato
+37.pdf:55:fato
+37.pdf:58:fato
+37.pdf:60:fato
+37.pdf:62:fato
+37.pdf:64:fato
+37.pdf:66:fato
+37.pdf:67:fato
+37.pdf:68:fato
+37.pdf:71:fato
+38.pdf:7:fato
+39.pdf:10:fato
+39.pdf:29:fato
+39.pdf:29:fato
+39.pdf:32:fato
+39.pdf:33:fato
+39.pdf:44:fato
+39.pdf:45:fato
+39.pdf:45:fato
+39.pdf:45:fato
+39.pdf:47:fato
+39.pdf:49:fato
+39.pdf:57:Situação encontrada
+39.pdf:57:Situação encontrada
+39.pdf:58:Situação encontrada
+39.pdf:63:fato
+39.pdf:77:fato
+39.pdf:79:fato
+39.pdf:80:fato
+39.pdf:83:fato
+41.pdf:24:fato
+41.pdf:28:fato
+41.pdf:28:fato
+41.pdf:28:fato
+41.pdf:29:fato
+41.pdf:32:fato
+41.pdf:36:fato
+41.pdf:37:situações encontradas
+41.pdf:40:fato
+41.pdf:52:fato
+41.pdf:58:fato
+41.pdf:62:fato
+41.pdf:65:fato
+41.pdf:66:fato
+41.pdf:75:fato
+41.pdf:75:fato
+41.pdf:76:fato
+41.pdf:77:fato
+41.pdf:78:fato
+41.pdf:78:fato
+42.pdf:9:fato
+42.pdf:9:fato
+43.pdf:3:fato
+44.pdf:3:fato
+44.pdf:9:Fato
+46.pdf:15:fato
+46.pdf:18:fato
+46.pdf:27:Fato
+46.pdf:32:fato
+46.pdf:32:fato
+47.pdf:32:fato
+47.pdf:32:fato
+47.pdf:36:fato
+47.pdf:38:fato
+47.pdf:44:fato
+48.pdf:16:fato
+48.pdf:18:fato
+49.pdf:13:fato
+49.pdf:20:fato
+49.pdf:25:fato
+49.pdf:27:fato
+49.pdf:28:fato
+51.pdf:7:fato
+51.pdf:16:fato
+51.pdf:16:fato
+51.pdf:17:fato
+51.pdf:23:fato
+51.pdf:24:fato
+51.pdf:25:fato
+51.pdf:28:fato
+52.pdf:15:fato
+52.pdf:15:fato
+52.pdf:17:fato
+52.pdf:17:fato
+52.pdf:25:fato
+53.pdf:4:fato
+53.pdf:4:fato
+53.pdf:4:fato
+53.pdf:9:fato
+53.pdf:17:fato
+53.pdf:18:fato
+53.pdf:21:fato
+53.pdf:26:fato
+53.pdf:30:fato
+53.pdf:32:situações encontradas
+53.pdf:33:fato
+53.pdf:36:fato
+53.pdf:42:fato
+53.pdf:44:fato
+53.pdf:44:fato
+53.pdf:48:fato
+53.pdf:50:fato
+53.pdf:60:fato
+53.pdf:61:fato
+53.pdf:64:fato
+53.pdf:64:fato
+53.pdf:64:fato
+53.pdf:68:fato
+53.pdf:68:fato
+54.pdf:7:fato
+54.pdf:7:fato
+54.pdf:8:fato
+54.pdf:8:fato
+54.pdf:8:fato
+54.pdf:9:fato
+54.pdf:10:fato
+54.pdf:11:fato
+54.pdf:12:fato
+54.pdf:13:fato
+55.pdf:9:fato
+55.pdf:13:fato
+55.pdf:13:fato
+56.pdf:16:fato
+56.pdf:18:fato
+56.pdf:19:fato
+56.pdf:19:fato
+56.pdf:20:fato
+56.pdf:20:fato
+56.pdf:22:fato
+56.pdf:22:fato
+56.pdf:22:fato
+56.pdf:23:fato
+56.pdf:25:fato
+56.pdf:26:fato
+56.pdf:27:fato
+56.pdf:30:fato
+56.pdf:32:fato
+56.pdf:35:fato
+56.pdf:35:fato
+56.pdf:36:fato
+57.pdf:20:fato
+57.pdf:23:fato
+57.pdf:24:fato
+57.pdf:24:fato
+57.pdf:25:fato
+57.pdf:26:fato
+57.pdf:26:fato
+57.pdf:27:fato
+57.pdf:27:fato
+57.pdf:29:fato
+57.pdf:30:fato
+57.pdf:35:fato
+57.pdf:58:fato
+57.pdf:58:fato
+58.pdf:3:fato
+58.pdf:7:fato
+58.pdf:23:fato
+59.pdf:6:fato
+59.pdf:19:fato
+60.pdf:8:fato
+60.pdf:10:fato
+60.pdf:12:fato
+60.pdf:13:fato
+60.pdf:14:fato
+60.pdf:15:fato
+60.pdf:16:fato
+60.pdf:16:fato
+60.pdf:17:fato
+60.pdf:17:fato
+60.pdf:18:fato
+60.pdf:23:fato
+60.pdf:25:fato
+60.pdf:25:fato
+60.pdf:25:fato
+60.pdf:31:fato
+60.pdf:32:fato
+60.pdf:32:fato
+60.pdf:33:fato
+60.pdf:41:fato
+60.pdf:43:fato
+60.pdf:44:Fato
+60.pdf:46:fato
+60.pdf:46:fato
+60.pdf:48:fato
+60.pdf:49:fato
+60.pdf:52:fato
+60.pdf:54:fato
+60.pdf:54:fato
+62.pdf:8:fato
+63.pdf:3:fato
+63.pdf:10:fato
+63.pdf:11:fato
+63.pdf:27:fato
+64.pdf:3:fato
+64.pdf:8:fato
+64.pdf:12:fato
+64.pdf:12:fato
+64.pdf:14:situação encontrada
+64.pdf:15:situação encontrada
+64.pdf:17:situação encontrada
+64.pdf:21:fato
+64.pdf:22:fato
+65.pdf:5:fato
+65.pdf:24:fato
+65.pdf:36:fato
+67.pdf:19:fato
+67.pdf:19:fato
+67.pdf:20:fato
+67.pdf:28:fato
+67.pdf:29:fato
+67.pdf:30:fato
+67.pdf:33:fato
+67.pdf:33:fato
+67.pdf:42:fato
+67.pdf:43:fato
+68.pdf:9:fato
+68.pdf:18:situação encontrada
+68.pdf:19:fato
+68.pdf:28:fato
+68.pdf:28:fato
+69.pdf:9:fato
+69.pdf:14:fato
+69.pdf:30:fato
+71.pdf:8:fato
+72.pdf:3:fato
+73.pdf:30:fato
+73.pdf:34:fato
+73.pdf:36:situação encontrada
+73.pdf:46:fato
+74.pdf:15:fato
+74.pdf:20:fato
+74.pdf:39:fato
+75.pdf:30:fato
+75.pdf:34:fato
+75.pdf:36:situação encontrada
+75.pdf:46:fato
+76.pdf:4:fato
+76.pdf:9:fato
+76.pdf:25:fato
+76.pdf:25:fato
+76.pdf:29:fato
+76.pdf:42:fato
+76.pdf:45:fato
+76.pdf:46:situação encontrada
+76.pdf:51:fato
+76.pdf:56:fato
+77.pdf:20:fato
+77.pdf:23:fato
+77.pdf:26:fato
+77.pdf:28:fato
+77.pdf:29:fato
+77.pdf:40:fato
+77.pdf:41:fato
+78.pdf:12:fato
+78.pdf:17:Situação encontrada
+78.pdf:17:fato
+78.pdf:17:fato
+78.pdf:18:Situação encontrada
+78.pdf:18:fato
+78.pdf:27:fato
+79.pdf:13:fato
+79.pdf:13:fato
+79.pdf:16:fato
+79.pdf:17:fato
+80.pdf:18:fato
+80.pdf:25:fato
+80.pdf:31:fato
+80.pdf:42:fato
+80.pdf:47:fato
+81.pdf:12:fato
+81.pdf:14:fato
+81.pdf:15:fato
+81.pdf:19:fato
+81.pdf:24:fato
+81.pdf:24:Fato
+83.pdf:9:fato
+83.pdf:15:fato
+83.pdf:16:fato
+84.pdf:5:fato
+85.pdf:7:fato
+87.pdf:3:fato
+88.pdf:10:fato
+88.pdf:13:fato
+89.pdf:11:fato
+89.pdf:11:fato
+90.pdf:3:fato
+90.pdf:11:fato
+90.pdf:19:fato
+91.pdf:13:fato
+93.pdf:16:fato
+93.pdf:17:fato
+93.pdf:17:fato
+93.pdf:18:fato
+93.pdf:18:fato
+93.pdf:18:fato
+93.pdf:19:fato
+93.pdf:19:fato
+93.pdf:21:fato
+93.pdf:32:fato
+93.pdf:37:Fato
+93.pdf:45:fato
+93.pdf:54:fato
+93.pdf:58:condições encontradas
+93.pdf:60:fato
+93.pdf:61:fato
+94.pdf:20:fato
+94.pdf:22:fato
+94.pdf:25:fato
+94.pdf:26:fato
+94.pdf:29:fato
+94.pdf:31:fato
+94.pdf:33:fato
+94.pdf:35:fato
+94.pdf:65:fato
+94.pdf:67:fato
+94.pdf:68:fato
+94.pdf:68:fato
+94.pdf:68:fato
+94.pdf:74:fato
+94.pdf:74:fato
+94.pdf:90:fato
+94.pdf:96:fato
+94.pdf:99:fato
+94.pdf:103:fato
+94.pdf:103:fato
+94.pdf:103:fato
+94.pdf:107:fato
+94.pdf:112:fato
+94.pdf:114:fato
+94.pdf:114:fato
+94.pdf:115:fato
+94.pdf:121:fato
+95.pdf:19:fato
+95.pdf:46:fato
+95.pdf:56:fato
+95.pdf:56:fato
+95.pdf:61:fato
+95.pdf:68:fato
+95.pdf:69:fato
+95.pdf:70:fato
+95.pdf:71:fato
+95.pdf:80:fato
+95.pdf:89:fato
+95.pdf:98:fato
+95.pdf:111:fato
+96.pdf:10:fato
+96.pdf:10:fato
+96.pdf:11:fato
+96.pdf:12:fato
+96.pdf:12:fato
+96.pdf:12:fato
+96.pdf:12:fato
+96.pdf:13:fato
+96.pdf:14:fato
+96.pdf:17:fato
+96.pdf:19:fato
+96.pdf:23:fato
+96.pdf:29:fato
+96.pdf:32:fato
+96.pdf:35:fato
+96.pdf:35:fato
+96.pdf:40:fato
+96.pdf:52:fato
+96.pdf:55:fato
+96.pdf:59:fato
+96.pdf:65:fato
+96.pdf:65:fato
+96.pdf:93:fato
+96.pdf:94:fato
+96.pdf:100:fato
+96.pdf:118:fato
+97.pdf:16:fato
+97.pdf:24:fato
+97.pdf:25:fato
+97.pdf:28:fato
+97.pdf:29:fato
+97.pdf:39:fato
+97.pdf:43:fato
+98.pdf:14:situação encontrada
+98.pdf:17:situação encontrada
+98.pdf:18:fato
+98.pdf:20:fato
+98.pdf:23:fato
+99.pdf:10:fato
+99.pdf:11:fato
+99.pdf:11:fato
+99.pdf:13:fato
+99.pdf:18:fato
+99.pdf:20:fato
+99.pdf:21:fato
+99.pdf:22:fato
+99.pdf:22:fato
