@@ -1,1 +1,31 @@
-/venv
+# Ambientes Virtuais
+.venv/
+venv/
+*.venv/
+
+# Arquivos gerados pelo MkDocs
+site/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyd
+.Python/
+
+# Arquivos de dados gerados pelos scripts
+# A pasta Ajuste-Colunas-Booleanas/csv-gerados/ pode ter arquivos temporários
+Ajuste-Colunas-Booleanas/csv-gerados/
+# O arquivo DB_novo.csv e relatorios.csv são gerados e podem estar em 'datasets'
+Atualizar-Dataset/datasets/DB_novo.csv
+Atualizar-Dataset/datasets/relatorios.csv # Se você não quiser versionar os relatórios gerados
+
+# Arquivos de backup do Excel (geralmente começam com ~$)
+~$*.xlsx
+*.tmp
+*.log
+
+# Arquivos temporários do sistema operacional ou IDEs
+.DS_Store # macOS
+.idea/    # IntelliJ / PyCharm
+.vscode/  # VS Code (se não quiser versionar as configs locais da IDE)
+*.swp     # Vim swap files
