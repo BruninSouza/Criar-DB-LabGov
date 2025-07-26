@@ -1,0 +1,58 @@
+site_name: Documentação do Projeto de Automação de Dados
+site_url: https://seusite.com/
+site_description: Documentação completa para o projeto de atualização automatizada de datasets.
+
+nav: # Define a estrutura do menu de navegação
+    - Início: index.md
+    - Módulos Principais:
+        - Ajuste de Colunas Booleanas: ajuste-colunas-booleanas.md
+        - Ajuste de Colunas Numéricas: ajuste-colunas-numericas.md
+        - Atualização do Dataset: atualizar-dataset.md
+    - Como Executar: como-executar.md
+
+theme: # Configurações visuais do tema Material for MkDocs
+    name: material
+    features:
+        - navigation.tabs # Abas de navegação no topo
+        - navigation.indexes # Índice em cada seção (ex: "Início > Módulos Principais > Ajuste...")
+        - content.tabs # Abas dentro do conteúdo Markdown
+        - content.code.annotate # Anotações em blocos de código
+        - content.code.copy # Botão de copiar código
+        - search.suggest # Sugestões de busca
+        - search.highlight # Destaca termos buscados
+    palette: # Paleta de cores para o tema
+        - scheme: default # Tema claro padrão
+          primary: teal
+          accent: orange
+          toggle:
+              icon: material/brightness-4
+              name: Switch to dark mode
+        - scheme: slate # Tema escuro
+          primary: teal
+          accent: orange
+          toggle:
+              icon: material/brightness-7
+              name: Switch to light mode
+    font: # Fontes usadas na documentação
+        text: Roboto
+        code: Roboto Mono
+
+plugins: # Plugins para funcionalidades extras
+    - search # Habilita a funcionalidade de busca
+    # Se precisar de docstrings Python para gerar docs automaticamente:
+    # - mkdocstrings
+
+markdown_extensions:
+    - pymdownx.highlight:
+        anchor_linenums: true # Permite links para números de linha
+        line_spans: __span # Necessário para algumas funcionalidades avançadas
+    - pymdownx.superfences: # Melhora a renderização de blocos de código
+        custom_fences:
+            - name: mermaid
+              class: mermaid
+              format: !!python/name:pymdownx.superfences.fence_code_format
+    # Extensões adicionais que podem ser úteis para sua documentação:
+    - admonition # Para blocos de aviso (ex: !!! note, !!! warning)
+    - pymdownx.details # Para blocos de detalhes expansíveis
+    - attr_list # Para adicionar atributos HTML a elementos Markdown (ex: {.classname})
+    - md_in_html # Para renderizar Markdown dentro de blocos HTML
