@@ -1,19 +1,18 @@
-## 🗂️ Estrutura do Projeto
+# **Criação do Banco de Dados**
 
-# Criação do Banco de Dados
-
-#### UFPB - Universidade Federal da Paraíba
-#### LabGov
+#### **UFPB - Universidade Federal da Paraíba**
+#### **LabGov**
 
 Autor: Bruno Souza da Costa  
 Contatos: [e-mail](brun.souz4@gmail.com) | [linkedin](https://www.linkedin.com/in/bruno-souza-a74396214/)
 
-### Esse código foi utilizado para automatizar a criação do banco de dados do projeto "Relatórios de Auditorias Governamentais"
+### E**sse código foi utilizado para automatizar a criação do banco de dados do projeto "Relatórios de Auditorias Governamentais"**
 
 A metodologia completa utilizada para a criação do banco de dados se encontra no [link](https://docs.google.com/document/d/1SqfNRUad_ccG6rAjSugxbDS6db2O_lf-TVVCaA3C6TM/edit?usp=sharing).
 
 A análise dos relatórios de auditoria interna governamental se encontra no [link](https://github.com/BruninSouza/relatorios_auditoria_interna_governamental?tab=readme-ov-file).
 
+## 🗂️ **Estrutura do Projeto**
 
 ```bash
 ├── Ajuste-Colunas-Booleanas/     # Pasta onde os dataset com valores booleanos é criado
@@ -39,12 +38,12 @@ A análise dos relatórios de auditoria interna governamental se encontra no [li
 └── script_main.sh                # Script responsável por gerar datasets atualizados automaticamente
 ```
 
-## 🧪 Requisitos
+## 🧪 **Requisitos**
 
 - Sistema operacional Linux
 - python 3.x instalado
 
-## Como Usar
+## **Como Usar**
 
 Clone este repositório:
 
