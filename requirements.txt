@@ -1,2 +1,6 @@
+mkdocs
+mkdocs-material
+markdown 
+pymdown-extensions
 pandas
 openpyxl
