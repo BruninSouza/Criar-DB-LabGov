@@ -1,0 +1,50 @@
+name: Deploy Docs
+
+on:
+  push:
+    branches:
+      - main # ou master, dependendo da sua branch principal
+    paths:
+      - 'docs/**' # Aciona o workflow quando arquivos na pasta docs/ mudam
+      - 'mkdocs.yml' # Aciona o workflow quando mkdocs.yml muda
+      - '.github/workflows/deploy-docs.yml' # Aciona o workflow quando este próprio arquivo muda
+
+permissions:
+  contents: write # Permite que o workflow escreva no repositório (para a branch gh-pages)
+  pages: write # Permite que o workflow gerencie o GitHub Pages
+  id-token: write # Necessário para o OIDC do Pages
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest # O sistema operacional onde o job vai rodar
+
+    steps:
+      - name: Checkout code # Pega o código do seu repositório
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Necessário para o mkdocs-material para construir o histórico de versão
+
+      - name: Set up Python # Configura o ambiente Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x' # Use a versão do Python que você usa no seu projeto (ex: '3.9', '3.10', '3.11')
+
+      - name: Install dependencies # Instala as dependências do seu requirements.txt
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Deploy MkDocs documentation to GitHub Pages # Constrói e deploya a documentação
+        run: mkdocs gh-deploy --force # --force sobrescreve a branch gh-pages se necessário
+
+      - name: Configure GitHub Pages # Configura o GitHub Pages no seu repositório
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact # Upload do site gerado como um artefato
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site' # A pasta 'site' gerada pelo MkDocs
+
+      - name: Deploy to GitHub Pages # Publica o artefato no GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
