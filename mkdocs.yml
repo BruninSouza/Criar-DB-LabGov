@@ -4,8 +4,8 @@ site_description: Documentação completa para o projeto de atualização automa
 
 nav: # Define a estrutura do menu de navegação
     - Início: index.md
+    - Preparação dos dados: preparacao-dados.md
     - Módulos Principais:
-        - Preparação dos dados: preparacao-dados.md
         - Ajuste de Colunas Booleanas: ajuste-colunas-booleanas.md
         - Ajuste de Colunas Numéricas: ajuste-colunas-numericas.md
         - Atualização do Dataset: atualizar-dataset.md
