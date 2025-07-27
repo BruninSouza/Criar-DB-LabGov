@@ -231,10 +231,29 @@
     
   
   
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Preparação dos dados
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="./" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../ajuste-colunas-booleanas/" class="md-tabs__link">
           
   
   
@@ -324,62 +343,6 @@
     
       
       
-  
-  
-    
-  
-  
-  
-    
-    
-      
-        
-      
-        
-      
-        
-      
-        
-      
-    
-    
-    
-      
-        
-        
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
-        
-          
-          <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
-            
-  
-  
-  <span class="md-ellipsis">
-    Módulos Principais
-    
-  </span>
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
-          <label class="md-nav__title" for="__nav_2">
-            <span class="md-nav__icon md-icon"></span>
-            Módulos Principais
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
   
   
     
@@ -540,7 +503,55 @@
     </li>
   
 
-              
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    Módulos Principais
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            Módulos Principais
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
             
               
                 
@@ -781,63 +792,85 @@
 
 
 
-<h1 id="preparacao-dos-dados-para-execucao-do-projeto">Preparação dos Dados para Execução do Projeto</h1>
+<h1 id="preparacao-dos-dados-para-execucao-do-projeto"><strong>Preparação dos Dados para Execução do Projeto</strong></h1>
 <p>Para que os módulos de automação funcionem corretamente, é essencial que os arquivos de dados estejam organizados e nomeados conforme as especificações. Siga as instruções abaixo para preparar seu ambiente.</p>
-<h2 id="1-modulo-de-ajuste-de-colunas-numericas">1. Módulo de Ajuste de Colunas Numéricas</h2>
+<h2 id="1-modulo-de-ajuste-de-colunas-numericas"><strong>1. Módulo de Ajuste de Colunas Numéricas</strong></h2>
 <p>Este módulo requer arquivos de dados específicos baixados do site da CGU (Controladoria-Geral da União).</p>
-<h3 id="a-download-dos-arquivos-xlsx">A. Download dos Arquivos XLSX</h3>
-<div class="highlight"><pre><span></span><code>Acesse o site da CGU e navegue até a seção de dados abertos ou relatórios.
-
-Baixe os seguintes arquivos XLSX, filtrando pelo período de tempo especificado que você deseja analisar:
-
-    Arquivo Normal: Um arquivo XLSX com o filtro do período de tempo. Este será o arquivo base.
-
-    Arquivo de Grupos: Um arquivo XLSX no mesmo período de tempo, mas com filtros específicos para &quot;grupos&quot;.
-
-    Arquivo de Avaliação: Um arquivo XLSX no mesmo período de tempo, mas com filtros específicos para &quot;avaliação&quot;.
-
-Nomeação dos Arquivos: É crucial que o nome desses arquivos siga um padrão específico para que os scripts consigam lê-los corretamente. Certifique-se de nomeá-los de forma consistente, como por exemplo:
-
-    Dados_PeriodoX_Normal.xlsx
-
-    Dados_PeriodoX_Grupos.xlsx
-
-    Dados_PeriodoX_Avaliacao.xlsx
-    (Os nomes exatos devem ser compatíveis com a lógica de leitura dos seus scripts Python. Se seu script espera nomes muito específicos como BD-Extensão.xlsx, use esses nomes.)
-</code></pre></div>
-<h3 id="b-organizacao-dos-arquivos">B. Organização dos Arquivos</h3>
-<div class="highlight"><pre><span></span><code>Limpe a Pasta Existente: Antes de mover os novos arquivos, remova todos os arquivos .xlsx que estão atualmente no diretório:
-Ajuste-Colunas-Numericas/arquivos-xlsx/
-
-Mova os Novos Arquivos: Copie os arquivos XLSX que você acabou de baixar e nomear para o diretório:
-Ajuste-Colunas-Numericas/arquivos-xlsx/
-</code></pre></div>
-<h2 id="2-modulo-de-ajuste-de-colunas-booleanas">2. Módulo de Ajuste de Colunas Booleanas</h2>
-<p>Este módulo utiliza arquivos de texto (.txt) gerados a partir de uma metodologia anterior (provavelmente a que identifica referências a PDFs).</p>
-<h3 id="a-obtencao-dos-arquivos-txt">A. Obtenção dos Arquivos .txt</h3>
-<div class="highlight"><pre><span></span><code>Recupere os arquivos .txt criados usando a metodologia descrita anteriormente para a geração de colunas booleanas.
-
-    (Se houver um link para a metodologia, você pode inseri-lo aqui: Link para Metodologia Anterior de Geração de TXTs)
-</code></pre></div>
-<h3 id="b-organizacao-dos-arquivos_1">B. Organização dos Arquivos</h3>
-<div class="highlight"><pre><span></span><code>Limpe a Pasta Existente: Remova todos os arquivos .txt que estão atualmente no diretório:
-Ajuste-Colunas-Booleanas/arquivos/
-
-Mova os Novos Arquivos: Copie os arquivos .txt recuperados para o diretório:
-Ajuste-Colunas-Booleanas/arquivos/
-</code></pre></div>
-<h2 id="3-modulo-de-atualizar-dataset">3. Módulo de Atualizar Dataset</h2>
+<h3 id="a-download-dos-arquivos-xlsx"><strong>A. Download dos Arquivos XLSX</strong></h3>
+<ol>
+<li>
+<p>Acesse o site da CGU através do <a href="https://eaud.cgu.gov.br/relatorios/pesquisa">link</a>.</p>
+</li>
+<li>
+<p>Baixe os seguintes arquivos XLSX, filtrando pelo período de tempo especificado que você deseja analisar:</p>
+<ul>
+<li>
+<p><strong>Arquivo Normal</strong>: Um arquivo XLSX com o filtro do período de tempo. Este será o arquivo base.</p>
+</li>
+<li>
+<p><strong>Arquivo de Grupos</strong>: Um arquivo XLSX no mesmo período de tempo, mas com filtros específicos para "grupos".</p>
+</li>
+<li>
+<p><strong>Arquivo de Avaliação</strong>: Um arquivo XLSX no mesmo período de tempo, mas com filtros específicos para "avaliação".</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Nomeação dos Arquivos: É crucial que o nome desses arquivos siga um padrão específico para que os scripts consigam lê-los corretamente. Certifique-se de nomeá-los de forma consistente, como por exemplo:</p>
+<ul>
+<li>
+<p><code>BD-Extensão.xslx</code>: para o arquivo base.</p>
+</li>
+<li>
+<p><code>grupo_nome_do_grupo.xlsx</code>: para os arquivos filtrados por grupo</p>
+</li>
+<li>
+<p><code>avaliacao_sim.xslx</code> e <code>avaliacao_nao.xlsx</code>: para os arquivos filtrados por avaliacao (só existem sim e não)</p>
+</li>
+</ul>
+</li>
+</ol>
+<blockquote>
+<p>⚠️Importante: Os nomes exatos devem ser compatíveis com a lógica de leitura dos seus scripts Python. Se seu script espera nomes muito específicos como BD-Extensão.xlsx, use esses nomes.</p>
+</blockquote>
+<h3 id="b-organizacao-dos-arquivos"><strong>B. Organização dos Arquivos</strong></h3>
+<ul>
+<li>
+<p><strong>Limpe a Pasta Existente</strong>: Antes de mover os novos arquivos, remova todos os arquivos .xlsx que estão atualmente no diretório: <code>Ajuste-Colunas-Numericas/arquivos-xlsx/</code></p>
+</li>
+<li>
+<p><strong>Mova os Novos Arquivos</strong>: Copie os arquivos XLSX que você acabou de baixar e nomear para o diretório: <code>Ajuste-Colunas-Numericas/arquivos-xlsx/</code></p>
+</li>
+</ul>
+<h2 id="2-modulo-de-ajuste-de-colunas-booleanas"><strong>2. Módulo de Ajuste de Colunas Booleanas</strong></h2>
+<p>Este módulo utiliza arquivos de texto (<code>.txt</code>) gerados a partir de uma metodologia anterior (provavelmente a que identifica referências a PDFs).</p>
+<h3 id="a-obtencao-dos-arquivos-txt"><strong>A. Obtenção dos Arquivos .txt</strong></h3>
+<ul>
+<li>Recupere os arquivos <code>.txt</code> criados usando a metodologia descrita anteriormente para a geração de colunas booleanas.</li>
+</ul>
+<p><a href="https://docs.google.com/document/d/1SqfNRUad_ccG6rAjSugxbDS6db2O_lf-TVVCaA3C6TM/edit?usp=sharing">Link</a> para Metodologia Anterior de Geração de TXTs.</p>
+<h3 id="b-organizacao-dos-arquivos_1"><strong>B. Organização dos Arquivos</strong></h3>
+<ul>
+<li>
+<p><strong>Limpe a Pasta Existente</strong>: Remova todos os arquivos <code>.txt</code> que estão atualmente no diretório: <code>Ajuste-Colunas-Booleanas/arquivos/</code></p>
+</li>
+<li>
+<p><strong>Mova os Novos Arquivos</strong>: Copie os arquivos <code>.txt</code> recuperados para o diretório: <code>Ajuste-Colunas-Booleanas/arquivos/</code></p>
+</li>
+</ul>
+<h2 id="3-modulo-de-atualizar-dataset"><strong>3. Módulo de Atualizar Dataset</strong></h2>
 <p>Para este módulo, você precisará fornecer a versão mais recente do seu arquivo de relatórios para que ele seja atualizado com os novos dados processados.</p>
-<h3 id="a-obtencao-do-arquivo-relatorioscsv">A. Obtenção do Arquivo relatorios.csv</h3>
-<div class="highlight"><pre><span></span><code>Localize o arquivo relatorios.csv que está sendo atualmente utilizado para suas análises de relatórios. Este é o dataset base que será atualizado.
-</code></pre></div>
-<h3 id="b-organizacao-do-arquivo">B. Organização do Arquivo</h3>
-<div class="highlight"><pre><span></span><code>Limpe a Pasta Existente: Remova o arquivo relatorios.csv que está atualmente no diretório:
-Atualizar-Dataset/datasets/
-
-Mova o Novo Arquivo: Copie a versão mais recente do seu relatorios.csv para o diretório:
-Atualizar-Dataset/datasets/
-</code></pre></div>
+<h3 id="a-obtencao-do-arquivo-relatorioscsv"><strong>A. Obtenção do Arquivo relatorios.csv</strong></h3>
+<p>Localize o arquivo <code>relatorios.csv</code> que está sendo atualmente utilizado para suas análises de relatórios. Este é o dataset base que será atualizado.</p>
+<h3 id="b-organizacao-do-arquivo"><strong>B. Organização do Arquivo</strong></h3>
+<ul>
+<li>
+<p><strong>Limpe a Pasta Existente</strong>: Remova o arquivo relatorios.csv que está atualmente no diretório: <code>Atualizar-Dataset/datasets/</code></p>
+</li>
+<li>
+<p><strong>Mova o Novo Arquivo</strong>: Copie a versão mais recente do seu relatorios.csv para o diretório: <code>Atualizar-Dataset/datasets/</code></p>
+</li>
+</ul>
 
 
 
