@@ -658,12 +658,13 @@
 
 
 
-<h1 id="como-executar-o-projeto-de-automacao-de-dados">Como Executar o Projeto de Automação de Dados</h1>
+<h1 id="como-executar-o-projeto-de-automacao-de-dados"><strong>Como Executar o Projeto de Automação de Dados</strong></h1>
 <p>Este guia detalha os passos necessários para configurar e executar o projeto completo de automação de dados em seu ambiente local. Siga estas instruções cuidadosamente para garantir uma execução bem-sucedida.</p>
 <hr />
-<h2 id="pre-requisitos">Pré-requisitos</h2>
+<h2 id="pre-requisitos"><strong>Pré-requisitos</strong></h2>
 <p>Certifique-se de que seu sistema possui as seguintes ferramentas instaladas:</p>
 <ul>
+<li><strong>Sistema Operacional Linux (preferencialmente Ubuntu 20.04+ ou Debian 11+)</strong>: Este projeto foi desenvolvido e testado em ambientes Linux.</li>
 <li><strong>Python 3.8+</strong>: Linguagem de programação principal do projeto.<ul>
 <li>Verifique com: <code>python3 --version</code></li>
 </ul>
@@ -678,12 +679,17 @@
 </li>
 </ul>
 <hr />
-<h2 id="passos-para-execucao">Passos para Execução</h2>
-<h3 id="1-clonar-o-repositorio-do-projeto">1. Clonar o Repositório do Projeto</h3>
-<p>Abra seu terminal ou prompt de comando e clone o repositório para sua máquina local. Substitua <code>https://github.com/seu-usuario/seu-projeto.git</code> pelo URL real do seu repositório.</p>
-<p>```bash
-git clone https://github.com/seu-usuario/seu-projeto.git
-cd seu-projeto/ # Navegue para a pasta raiz do projeto</p>
+<h2 id="passos-para-execucao"><strong>Passos para Execução</strong></h2>
+<h3 id="1-clonar-o-repositorio-do-projeto"><strong>1. Clonar o Repositório do Projeto</strong></h3>
+<p>Abra seu terminal ou prompt de comando e clone o repositório para sua máquina local através do comando:</p>
+<div class="highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>git<span class="w"> </span>clone<span class="w"> </span>https://github.com/BruninSouza/Criar-DB-LabGov.git
+</span></code></pre></div>
+<p>Abra-o na IDE de sua escolha e execute o seguinte comando no terminal:</p>
+<div class="highlight"><pre><span></span><code><span id="__span-1-1"><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>chmod<span class="w"> </span>+x<span class="w"> </span>script_main.sh
+</span></code></pre></div>
+<p>Issa dará permissão de execução para o arquivo de script, após isso execute-o no terminal:</p>
+<div class="highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a>./script_main.sh
+</span></code></pre></div>
 
 
 
