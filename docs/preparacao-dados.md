@@ -42,7 +42,7 @@ Este módulo utiliza arquivos de texto (`.txt`) gerados a partir de uma metodolo
 
 - Recupere os arquivos `.txt` criados usando a metodologia descrita anteriormente para a geração de colunas booleanas.
 
-[Link](https://docs.google.com/document/d/1SqfNRUad_ccG6rAjSugxbDS6db2O_lf-TVVCaA3C6TM/edit?usp=sharing) para Metodologia Anterior de Geração de TXTs.
+A metodologia de Geração dos arquivos `.txt` se encontra no [Link](https://docs.google.com/document/d/1SqfNRUad_ccG6rAjSugxbDS6db2O_lf-TVVCaA3C6TM/edit?usp=sharing).
 
 ### **B. Organização dos Arquivos**
 
