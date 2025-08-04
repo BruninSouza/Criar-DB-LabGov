@@ -1,6 +1,6 @@
 # **Bem-vindo à Documentação do Projeto de Automação de Dados**
 
-Este projeto visa automatizar a **atualização e consolidação de datasets** através de processos robustos de ajuste de colunas booleanas e numéricas. Nosso objetivo é simplificar a preparação de dados, garantindo que suas análises sejam sempre baseadas em informações consistentes e atualizadas.
+Este projeto visa automatizar a **atualização e consolidação de datasets** através de processos robustos de ajustes de colunas booleanas e numéricas. Nosso objetivo é simplificar a preparação de dados, garantindo que suas análises sejam sempre baseadas em informações consistentes e atualizadas. O repositório do projeto se encontra no [link](https://github.com/BruninSouza/Criar-DB-LabGov)
 
 ---
 
