@@ -8,7 +8,7 @@ Contatos: [e-mail](brun.souz4@gmail.com) | [linkedin](https://www.linkedin.com/i
 
 ### **Esse código foi utilizado para automatizar a atualização do banco de dados usado no projeto "Relatórios de Auditorias Governamentais"**
 
-A documentação completa utilizada para a criação deste projeto se encontra no [link](https://bruninsouza.github.io/Criar-DB-LabGov/preparacao-dados/).
+A documentação completa utilizada para a criação deste projeto se encontra no [link](https://bruninsouza.github.io/Criar-DB-LabGov/).
 
 A análise dos relatórios de auditoria interna governamental se encontra no [link](https://github.com/BruninSouza/relatorios_auditoria_interna_governamental?tab=readme-ov-file).
 
